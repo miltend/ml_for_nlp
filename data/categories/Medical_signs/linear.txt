@@ -1,0 +1,547 @@
+<doc id="562958" title="Signs and symptoms">
+Signs and symptoms are the observed or detectable signs, and experienced symptoms of an illness, injury, or condition.
+Signs are objective and externally observable; symptoms are a person's reported subjective experiences. A sign for example may be a higher or lower temperature than normal, raised or lowered blood pressure or an abnormality showing on a medical scan. A symptom is something out of the ordinary that is experienced by an individual such as feeling feverish, a headache or other pains in the body.
+
+
+</doc>
+
+<doc id="1552040" title="Aaron's sign">
+Aaron's sign is a referred pain felt in the epigastrium upon continuous firm pressure over McBurney's point. It is a Non - Specifc sign of appendicitis. While the sign is well known, and taught in medical education, its efficacy has not been well establishedAaron's sign is named for Charles Dettie Aaron, an American gastroenterologist.
+
+
+</doc>
+
+<doc id="1552093" title="Abadie's sign of exophthalmic goiter">
+Abadie's sign of exophthalmic goiter is a medical sign characterized by spasm of the levator palpebrae superioris muscle with retraction of the upper lid (so that sclera is visible above cornea) seen in Graves-Basedow disease which, together with exophthalmos causes the bulging eyes appearance.It is named for Jean Marie Charles Abadie.
+</doc>
+
+<doc id="1552143" title="Abadie's sign of tabes dorsalis">
+Abadie's sign of tabes dorsalis is a medical sign of tabes dorsalis, a late consequence of neurosyphilis. It is elicited by compressing the Achilles tendon, which normally causes pain. A positive Abadie's sign is defined by the absence of pain. It may occur in any disease that damages the dorsal column–medial lemniscus pathway, which transmits sensory information from the periphery to the brain.It is named for Joseph Louis Irenée Jean Abadie, a French neurologist.
+</doc>
+
+<doc id="26631883" title="Abdominal aura">
+Abdominal aura (from Latin abdomen, "belly," and aura, "wind, odor, or gleam of light"), also known as visceral aura and epigastric aura, is a type of somatosensory aura that typically manifests as abdominal discomfort in the form of nausea, malaise, hunger, or pain. Abdominal aura is typically associated with epilepsy, especially temporal lobe epilepsy, and it can also be used in the context of migraine. The term is used to distinguish it from other types of somatosensory aura, notably visual disturbances and paraesthesia. The abdominal aura can be classified as a somatic hallucination. Pathophysiologically, the abdominal aura is associated with aberrant neuronal discharges in sensory cortical areas representing the abdominal viscera.
+
+
+</doc>
+
+<doc id="3961546" title="Abdominal mass">
+An abdominal mass is any localized enlargement or swelling in the human abdomen. Depending on its location, the abdominal mass may be caused by an enlarged liver (hepatomegaly), enlarged spleen (splenomegaly), protruding kidney, a pancreatic mass, a retroperitoneal mass (a mass in the posterior of the peritoneum), an abdominal aortic aneurysm, or various tumours, such as those caused by abdominal carcinomatosis and omental metastasis. The treatments depend on the cause, and may range from watchful waiting to radical surgery.
+</doc>
+
+<doc id="54712" title="Abdominal obesity">
+Abdominal obesity, also known as central obesity and truncal obesity, is the human condition of an excessive concentration of visceral fat around the stomach and abdomen to such an extent that it is likely to harm its bearer's health. Abdominal obesity has been strongly linked to cardiovascular disease, Alzheimer's disease, and other metabolic and vascular diseases.Visceral and central abdominal fat and waist circumference show a strong association with type 2 diabetes.Visceral fat, also known as organ fat or intra-abdominal fat, is located inside the peritoneal cavity, packed in between internal organs and torso, as opposed to subcutaneous fat, which is found underneath the skin, and intramuscular fat, which is found interspersed in skeletal muscle. Visceral fat is composed of several adipose depots including mesenteric, epididymal white adipose tissue (EWAT), and perirenal fat. An excess of adipose visceral fat is known as central obesity, the "pot belly" or "beer belly" effect, in which the abdomen protrudes excessively. This body type is also known as "apple shaped", as opposed to "pear shaped" in which fat is deposited on the hips and buttocks.
+Researchers first started to focus on abdominal obesity in the 1980s when they realized it had an important connection to cardiovascular disease, diabetes, and dyslipidemia. Abdominal obesity was more closely related with metabolic dysfunctions connected with cardiovascular disease than was general obesity. In the late 1980s and early 1990s insightful and powerful imaging techniques were discovered that would further help advance the understanding of the health risks associated with body fat accumulation. Techniques such as computed tomography and magnetic resonance imaging made it possible to categorize mass of adipose tissue located at the abdominal level into intra-abdominal fat and subcutaneous fat.Abdominal obesity is linked with higher cardiovascular events among South Asian ethnic population.
+
+
+</doc>
+
+<doc id="32066041" title="Abdominal reflex">
+An abdominal reflex is a superficial neurological reflex stimulated by stroking of the abdomen around the umbilicus. It can be helpful in determining the level of a central nervous system (CNS) lesion. Being a superficial reflex, it is polysynaptic (involving multiple connections between nerves).
+
+
+</doc>
+
+<doc id="2916722" title="Abdominojugular test">
+The abdominojugular test, also known as abdominojugular reflux (AJR), is a physical examination test useful in diagnosing right ventricle dysfunction, particularly right ventricular failure.AJR is a test for measuring jugular venous pressure (JVP) through the distention of the internal jugular vein. A positive AJR test correlates with the pulmonary artery pressure and thus is a marker for right heart dysfunction, specifically right ventricular failure.Reflux in this context means backup of the circulatory system and is not to be confused with reflex.
+</doc>
+
+<doc id="729741" title="Acanthosis nigricans">
+Acanthosis nigricans is a medical sign characterised by brown-to-black, poorly defined, velvety hyperpigmentation of the skin. It is usually found in body folds, such as the posterior and lateral folds of the neck, the armpits, groin, navel, forehead and other areas.It is associated with endocrine dysfunction, especially insulin resistance and hyperinsulinaemia, as seen in diabetes mellitus. This activates the insulin-like growth factor receptors, which leads to proliferation of keratinocytes, fibroblasts and other cells in the skin. Activation of other growth factor receptors such as fibroblast growth factor receptors or epidermal growth factor receptor can also be responsible.
+
+
+</doc>
+
+<doc id="9389302" title="Accommodative insufficiency">
+Accommodative insufficiency (AI) involves the inability of the eye to focus properly on an object. Accommodation is the adjustment of the curvature of the lens to focus on objects near and far.
+In this condition, amplitude of accommodation of a person is lesser compared to physiological limits for his age. AI is generally considered separate from presbyopia, but mechanically both conditions represent a difficulty engaging the near vision system (accommodation) to see near objects clearly. Presbyopia is physiological insufficiency of accommodation due to age related changes in lens (decreased elasticity and increased hardness) and ciliary muscle power.AI is commonly present in people with convergence insufficiency.
+
+
+</doc>
+
+<doc id="38892935" title="Acholia">
+Acholia  or hypocholia is pallor of the feces, which lack their normal brown colour, as a result of impaired bile secretion into the bowel. Acholia is a sign pointing to reduced or lacking flow of conjugated bilirubin into the bowel, as a result of a problem in the liver itself or in the biliary tree.
+
+
+</doc>
+
+<doc id="5633227" title="Acrocyanosis">
+Acrocyanosis is persistent blue or cyanotic discoloration of the extremities, most commonly occurring in the hands, although it also occurs in the feet and distal parts of face. Although described over 100 years ago and not uncommon in practice, the nature of this phenomenon is still uncertain. The very term "acrocyanosis" is often applied inappropriately in cases when blue discoloration of the hands, feet, or parts of the face is noted.
+The principal (primary) form of acrocyanosis is that of a benign cosmetic condition, sometimes caused by a relatively benign neurohormonal disorder. Regardless of its cause, the benign form typically does not require medical treatment. A medical emergency would ensue if the extremities experience prolonged periods of exposure to the cold, particularly in children and patients with poor general health. However, frostbite differs from acrocyanosis because pain (via thermal nociceptors) often accompanies the former condition, while the latter is very rarely associated with pain. There are also a number of other conditions that affect hands, feet, and parts of the face with associated skin color changes that need to be differentiated from acrocyanosis: Raynaud phenomenon, pernio, acrorygosis, erythromelalgia, and blue finger syndrome. The diagnosis may be challenging in some cases, especially when these syndromes co-exist.Acrocyanosis may be a sign of a more serious medical problem, such as connective tissue diseases and diseases associated with central cyanosis. Other causative conditions include infections, toxicities, antiphospholipid syndrome, cryoglobulinemia, neoplasms. In these cases, the observed cutaneous changes are known as "secondary acrocyanosis". They may have a less symmetric distribution and may be associated with pain and tissue loss.
+
+
+</doc>
+
+<doc id="70137625" title="Activated protein C resistance test">
+The activated protein C resistance (APCR) test is a coagulation test used in the evaluation and diagnosis of activated protein C (APC) resistance, a form of hypercoagulability. Hereditary APC resistance is usually caused by the factor V Leiden mutation, whereas acquired APC resistance has been linked to antiphospholipid antibodies, pregnancy, and estrogen therapy. APC resistance can be measured using either an activated partial thromboplastin time (aPTT)-based test or an endogenous thrombin potential (ETP)-based test.
+
+
+</doc>
+
+<doc id="13870861" title="Adynamia">
+Adynamia means lack of strength or vigor due to a pathological condition. It is often associated with a range of neurological diseases such as multiple sclerosis and medial-frontal lobe lesions. It may be episodical, hereditary, or periodic (all types are ICD-10-CM code G72.3).
+</doc>
+
+<doc id="40159185" title="Air displacement plethysmography">
+Air displacement plethysmography (ADP, also known as whole-body air displacement plethysmography) is a recognized and scientifically validated densitometric method to measure human body composition.
+ADP is based on the same principles as the gold standard method of hydrostatic weighing, but through a densitometric technique that uses air displacement rather than water immersion.
+Air-displacement plethysmography offers several advantages over established reference methods, including a quick, comfortable, automated, noninvasive, and safe measurement process, and accommodates various subject types (e.g., children, obese, elderly, and disabled persons).
+
+
+</doc>
+
+<doc id="46994624" title="Alder's sign">
+Alder's sign, also known as Klein's sign, is a medical sign used to differentiate between appendicitis and tubo-ovarian pathology.
+</doc>
+
+<doc id="58790921" title="Allergic shiner">
+An allergic shiner is a dark discoloration below the eye that is associated with allergic rhinitis and is often seen in conjunction with bilateral Dennie–Morgan folds. These shiners are caused by venous congestion within the infraorbital groove, particularly from the nose. The characteristic infraorbital discoloration related to allergic shiners is due to a backup in the venous network supplying the mucous membranes of the paranasal and nasal cavities draining primarily via the branches of the sphenopalatine veins passing backward to the pterygoid plexus. While a classic finding in pediatric patients with allergic rhinitis, these particular shiners will persist into adulthood if their allergies are not successfully addressed.  
+The phenomenon was first documented in 1930, with the phrase being coined in 1954.
+</doc>
+
+<doc id="295833" title="Alogia">
+In psychology, alogia (; from Greek ἀ-, "without", and λόγος, "speech" + New Latin -ia) is poor thinking inferred from speech and language usage.
+There may be a general lack of additional, unprompted content seen in normal speech, so replies to questions may be brief and concrete, with less spontaneous speech.  This is termed poverty of speech
+or laconic speech.  
+The amount of speech may be normal but conveys little information because it is vague, empty, stereotyped, overconcrete, overabstract, or repetitive.  
+This is termed poverty of content 
+or poverty of content of speech.
+Under Scale for the Assessment of Negative Symptoms used in clinical research, thought blocking is considered a part of alogia, and so is increased latency in response.This condition is associated with schizophrenia, dementia, severe depression, and autism.
+As a symptom, it is commonly seen in patients with schizophrenia and schizotypal personality disorder, and is traditionally considered a negative symptom.  It can complicate psychotherapy severely because of the considerable difficulty in holding a fluent conversation.
+The alternative meaning of alogia is inability to speak because of dysfunction in the central nervous system, 
+found in mental deficiency and dementia.
+In this sense, the word is synonymous with aphasia, 
+and in less severe form, it is sometimes called dyslogia.
+</doc>
+
+<doc id="30065682" title="Amsler sign">
+Amsler sign also known as Amsler–Verrey sign is the name of the diagnostic finding seen in people with Fuchs heterochromic iridocyclitis (FHI). It is described as presence of blood (hyphema) in the aspirated aqueous fluid, in paracentesis of the anterior chamber, and is caused due to iris atrophy usually seen in FHI and exposure of the fragile iris vasculature to the aqueous fluid. The sudden change of pressure in the anterior chamber upon suction induced by the paracentesis, or during a cataract surgery, causes bursting of the fragile superficial iris capillaries resulting in micro-bleeding. This is one clinical diagnostic sign of FHI.
+</doc>
+
+<doc id="729816" title="Anasarca">
+Anasarca is a severe and generalized form of edema, with subcutaneous tissue swelling throughout the body. Unlike typical edema, which almost everyone will experience at some time and can be relatively benign, anasarca is a pathological process reflecting a severe disease state and can involve the cavities of the body in addition to the tissues.
+</doc>
+
+<doc id="178212" title="Anticoagulant">
+An anticoagulant, commonly known as a blood thinner, is a chemical substance that prevents or reduces coagulation of blood, prolonging the clotting time. Some of them occur naturally in blood-eating animals such as leeches and mosquitoes, where they help keep the bite area unclotted long enough for the animal to obtain some blood.As a class of medications, anticoagulants are used in therapy for thrombotic disorders. Oral anticoagulants (OACs) are taken by many people in pill or tablet form, and various intravenous anticoagulant dosage forms are used in hospitals. Some anticoagulants are used in medical equipment, such as sample tubes, blood transfusion bags, heart–lung machines, and dialysis equipment. One of the first anticoagulants, warfarin, was initially approved as a rodenticide.Anticoagulants are closely related to antiplatelet drugs and thrombolytic drugs by manipulating the various pathways of blood coagulation. Specifically, antiplatelet drugs inhibit platelet aggregation (clumping together), whereas anticoagulants inhibit specific pathways of the coagulation cascade, which happens after the initial platelet aggregation but before the formation of fibrin and stable aggregated platelet products.Common anticoagulants include warfarin and heparin.
+
+
+</doc>
+
+<doc id="46994043" title="Arapov's contracture">
+Arapov's sign (contracture) is a pain reflex contraction of the right hip joint in appendicitis.
+</doc>
+
+<doc id="39221350" title="Arlt's line">
+Arlt's line is a thick band of scar tissue in the conjunctiva of the eye, near the lid margin, that is associated with eye infections.  Arlt's line is a characteristic finding of trachoma, an infection of the eye caused by Chlamydia trachomatis.  The line runs horizontally, parallel to eyelid, and is found at the junction of the anterior one third and posterior two thirds of the conjunctiva.The line is named after the Austrian ophthalmologist Carl Ferdinand von Arlt.  
+
+
+</doc>
+
+<doc id="16773737" title="Arteriovenous nicking">
+Arteriovenous nicking, also known as AV nicking, is the phenomenon where, on examination of the eye, a small artery (arteriole) is seen crossing a small vein (venule), which results in the compression of the vein with bulging on either side of the crossing.  This is most commonly seen in eye disease caused by high blood pressure (hypertensive retinopathy). 
+It is thought that, since the arteriole and venule share a common sheath, the arteriole's thicker walls push against those of the venule forcing the venule to collapse.  This makes the venule form an hourglass shape around the arteriole.  Other theories suggest that this results not from compression from the arteriole but from sclerotic thickening or glial cell proliferation at the site where the two vessels cross. 
+Signs  
+1. Gunns sign - Tapering of veins 
+2. Bonnet sign- Banking of veins
+3. Salus sign - Deflection of veins
+</doc>
+
+<doc id="4770748" title="Ashman phenomenon">
+Ashman phenomenon, also known as Ashman beats, describes a particular type of wide QRS complex, often seen isolated that is typically seen in atrial fibrillation.  It is more often misinterpreted as a premature ventricular complex.
+It is named for Richard Ashman (of New Orleans) (1890 –1969), after first being described by Gouaux and Ashman in 1947.
+</doc>
+
+<doc id="4089295" title="Astasia-abasia">
+Astasia-abasia refers to the inability to either stand or walk in a normal manner. Astasia refers to the inability to stand upright unassisted. Abasia refers to lack of motor coordination in walking. The term abasia literally means that the base of gait (the lateral distance between the two feet) is inconstant or unmeasurable.  When seen in conversion disorder, the gait is bizarre and is not suggestive of a specific organic lesion: often the patient sways wildly and nearly falls, recovering at the last moment.
+An acquired total inability to stand and walk can be seen in organic neurological diseases, including stroke, Parkinson's disease, damage to the cerebellum, Guillain–Barré syndrome, normal pressure hydrocephalus and many others. In normal pressure hydrocephalus, for example, when the condition remains untreated, the patient's gait becomes shortened, with frequent shuffling and falls; eventually standing, sitting, and even rolling over in bed become impossible. This advanced state is referred to as "hydrocephalic astasia-abasia".
+</doc>
+
+<doc id="9343928" title="Auditory hallucination">
+An auditory hallucination, or paracusia, is a form of hallucination that involves perceiving sounds without auditory stimulus. While experiencing an auditory hallucination, the affected person hears a sound or sounds that did not come from the natural environment. 
+A common form of auditory hallucination involves hearing one or more voices without a speaker present, known as an auditory verbal hallucination. This may be associated with psychotic disorders, most notably schizophrenia, and this phenomenon is often used to diagnose these conditions.  However, individuals without any psychiatric disease whatsoever may hear voices, including those under the influence of mind-altering substances, such as cannabis, cocaine, amphetamines, and PCP.
+There are three main categories into which the hearing of talking voices often fall: a person hearing a voice speak one's thoughts, a person hearing one or more voices arguing, or a person hearing a voice narrating their own actions. These three categories do not account for all types of auditory hallucinations.
+Hallucinations of music also occur. In these, people more often hear snippets of songs that they know, or the music they hear may be original. They may occur in mentally sound people and with no known cause. Other types of auditory hallucinations include exploding head syndrome and musical ear syndrome.  In the latter, people will hear music playing in their mind, usually songs they are familiar with. These hallucinations can be caused by: lesions on the brain stem (often resulting from a stroke), sleep disorders such as narcolepsy, tumors, encephalitis, or abscesses. This should be distinguished from the commonly experienced phenomenon of earworms, memorable music that persists in one's mind. Reports have also mentioned that it is also possible to get musical hallucinations from listening to music for long periods of time. Other causes include hearing loss and epileptic activity.In the past, the cause of auditory hallucinations was attributed to cognitive suppression by way of executive function failure of the frontoparietal sulcus. Newer research has found that they coincide with the left superior temporal gyrus, suggesting that they are better attributed to speech misrepresentations. It is assumed through research that the neural pathways involved in normal speech perception and production, which are lateralized to the left temporal lobe, also underlie auditory hallucinations. Auditory hallucinations correspond with spontaneous neural activity of the left temporal lobe, and the subsequent primary auditory cortex. The perception of auditory hallucinations corresponds to the experience of actual external hearing, despite the absence of any sound itself.
+
+
+</doc>
+
+<doc id="21482860" title="Auenbrugger's sign">
+Auenbrugger's sign is a bulging of the epigastrium seen in cases of severe pericardial effusion. It is often not spotted because pericardial effusion can be caught on echocardiography before it progresses this far. It is named after Joseph Leopold Auenbrugger.
+</doc>
+
+<doc id="46994501" title="Aure-Rozanova's sign">
+Aure-Rozanova's sign is a medical sign that is typically seen in retrocecal appendix. It is characterized by increased pain on palpation with finger in the right Petit triangle (can be a positive Shchetkin-Boomberg's sign).
+</doc>
+
+<doc id="14961858" title="Ballance's sign">
+Ballance's sign is used in medical diagnosis. Its indications are dullness to percussion in the left flank LUQ and shifting dullness to percussion in the right flank seen with splenic rupture/hematoma. During trauma assessment of the abdomen, "Ballance's sign" may be observed upon exam.
+The dullness in the left flank is due to coagulated blood, the shifting dullness on the right due to fluid blood.
+It is named for Charles Alfred Ballance, an English surgeon, 1856–1936.
+</doc>
+
+<doc id="46995247" title="Bartomier-Michelson's sign">
+Bartomier-Michelson's sign is a medical sign characterized by increased pain on palpation at the right iliac region as the person being examined lies on their left side compared to when they lie on their back.It helps in detection of appendicitis.
+</doc>
+
+<doc id="1965767" title="Beau's lines">
+Beau's lines are deep grooved lines that run from side to side on the fingernail or the toenail. They may look like indentations or ridges in the nail plate.: 657 This condition of the nail was named by a French physician, Joseph Honoré Simon Beau (1806–1865), who first described it in 1846.
+
+
+</doc>
+
+<doc id="22022377" title="Becker's sign">
+Becker's sign, or Becker's phenomenon, is the presence of visible (through an ophthalmoscope) pulsation of retinal arteries, found in patients with aortic insufficiency or Graves' disease.The sign was named after Otto Heinrich Enoch Becker.
+
+
+</doc>
+
+<doc id="22023408" title="Bekhterev–Jacobsohn reflex">
+The Bekhterev–Jacobsohn reflex, or Jacobsohn's finger flexion sign, is a clinical sign found in patients with pyramidal tract lesions of the upper limb. In this condition, stroking the dorsum of the forearm, in the area of the distal radius, with the arm supine causes abduction of the hand and flexion of the fingers.
+It is analogous to the Bekhterev–Mendel reflex in the lower limb.
+The reflex is named after Vladimir Bekhterev and Louis Jacobsohn-Lask.
+</doc>
+
+<doc id="22023053" title="Bekhterev–Mendel reflex">
+The Bekhterev–Mendel reflex, also known as the Mendel reflex or Mendel–Bekhterev reflex, is a clinical sign found in patients with pyramidal tract lesions. Percussion of the dorsum of the foot causes flexion, or downward movement, of the second to the fifth toes in patients with pyramidal tract lesions, whereas percussion of the dorsum of the foot in normal patients causes extension of the toes.
+It is analogous to the Bekhterev–Jacobsohn reflex in the upper limb.
+The reflex is named after Vladimir Bekhterev and Kurt Mendel.
+</doc>
+
+<doc id="41967550" title="Bilateral hilar lymphadenopathy">
+Bilateral hilar lymphadenopathy is a bilateral enlargement of the lymph nodes of pulmonary hila. It is a radiographic term for the enlargement of mediastinal lymph nodes and is most commonly identified by a chest x-ray.
+</doc>
+
+<doc id="29665262" title="Biodosimetry">
+Biodosimetry is a measurement of biological response as a surrogate for radiation dose.  The International Commission on Radiation Units and Measurements and International Atomic Energy Agency have issued guidance on performing biodosimetry and interpreting data.
+</doc>
+
+<doc id="4584230" title="Biomarker (medicine)">
+In medicine, a biomarker is  a measurable indicator of the severity or presence of some disease state. It may be defined as a "cellular, biochemical or molecular alteration in cells, tissues or fluids that can be measured and evaluated to indicate normal biological processes, pathogenic processes, or pharmacological responses to a therapeutic intervention." More generally a biomarker is anything that can be used as an indicator of a particular disease state or some other physiological state of an organism. According to the WHO, the indicator may be chemical, physical, or biological in nature - and the measurement may be functional, physiological, biochemical, cellular, or molecular.A biomarker can be a substance that is introduced into an organism as a means to examine organ function or other aspects of health. For example, rubidium chloride is used in isotopic labeling to evaluate perfusion of heart muscle. It can also be a substance whose detection indicates a particular disease state, for example, the presence of an antibody may indicate an infection. More specifically, a biomarker indicates a change in expression or state of a protein that correlates with the risk or progression of a disease, or with the susceptibility of the disease to a given treatment. Biomarkers can be characteristic biological properties or molecules that can be detected and measured in parts of the body like the blood or tissue. They may indicate either normal or diseased processes in the body. Biomarkers can be specific cells, molecules, or genes, gene products, enzymes, or hormones. Complex organ functions or general characteristic changes in biological structures can also serve as biomarkers. Although the term biomarker is relatively new, biomarkers have been used in pre-clinical research and clinical diagnosis for a considerable time. For example, body temperature is a well-known biomarker for fever. Blood pressure is used to determine the risk of stroke. It is also widely known that cholesterol values are a biomarker and risk indicator for coronary and vascular disease, and that C-reactive protein (CRP) is a marker for inflammation.
+Biomarkers are useful in a number of ways, including measuring the progress of disease, evaluating the most effective therapeutic regimes for a particular cancer type, and establishing long-term susceptibility to cancer or its recurrence. Biomarkers characterize disease progression starting from the earliest natural history of the disease.  Biomarkers assess disease susceptibility and severity, which allows one to predict outcomes, determine interventions and evaluate therapeutic responses. From a forensics and epidemiologic perspective, biomarkers offer unique insight about the relationships between environmental risk factors. The parameter can be chemical, physical or biological. In molecular terms biomarker is "the subset of markers that might be discovered using genomics, proteomics technologies or imaging technologies. Biomarkers play major roles in medicinal biology. Biomarkers help in early diagnosis, disease prevention, drug target identification, drug response etc. Several biomarkers have been identified for many diseases such as serum LDL for cholesterol, blood pressure, and P53 gene and MMPs  as tumor markers for cancer.
+
+
+</doc>
+
+<doc id="68866119" title="Blue scrotum sign of Bryant">
+The blue scrotum sign of Bryant is an ecchymosis of the scrotum. It is a medical sign associated with ruptured abdominal aortic aneurysm (AAA) that is leaking relatively slowly. Rupture of the aneurysm causes blood to accumulate in the retroperitoneal space and extravasate into the scrotal tissue via the inguinal canal. It was first described by John Henry Bryant in a series of autopsies conducted on people who died of AAA. It is typically seen 3–5 days after leakage of the aneurysm.
+</doc>
+
+<doc id="1257105" title="Blumberg's sign">
+Blumberg's sign (also referred to as rebound tenderness or Shchetkin–Blumberg's sign) is a clinical sign in which there is pain upon removal of pressure rather than application of pressure to the abdomen. (The latter is referred to simply as abdominal tenderness.) It is indicative of peritonitis. It was named after German surgeon Jacob Moritz Blumberg.
+</doc>
+
+<doc id="22033296" title="Boas' point">
+Boas' point is an area of tenderness to palpation to the left of the 12th thoracic vertebra found in some patients with gastric ulcer.
+This medical sign is named after Ismar Isidor Boas.
+</doc>
+
+<doc id="8651105" title="Boas' sign">
+Boas' or Boas's sign is hyperaesthesia (increased or altered sensitivity) below the right Hypochondrium or 12th rib region, which can be a symptom in acute cholecystitis (inflammation of the gallbladder). It is one of many signs a medical provider may look for during an abdominal examination.Originally this sign referred to point tenderness in the region to the right of the 10th to 12th thoracic vertebrae. It is less than 7% sensitive.Its namesake is Ismar Isidor Boas (1858–1938), a German physician and the first licensed GI specialist in his country.Boas' sign can also indicate stomach and duodenal disease. When the transverse processes of thoracic vertebrae T10-T12 are pressed or effleuraged with the bottom of the hand, pain can appear at the left of spinous processes (in stomach's lesser curvature ulcer) or at the right (in pyloric or duodenal ulcer).
+</doc>
+
+<doc id="4586751" title="Body composition">
+In physical fitness, body composition refers to quantifying the different components (or "compartments") of a human body. The selection of compartments varies by model but may include fat, bone, water, and muscle. Two people of the same gender, height, and body weight may have completely different body types as a consequence of having different body compositions. This may be explained by a person having low or high body fat, dense muscles, or big bones.
+
+
+</doc>
+
+<doc id="3937909" title="Body fat percentage">
+The body fat percentage (BFP) of a human or other living being is the total mass of fat divided by total body mass, multiplied by 100; body fat includes essential body fat and storage body fat. Essential body fat is necessary to maintain life and reproductive functions. The percentage of essential body fat for women is greater than that for men, due to the demands of childbearing and other hormonal functions. Storage body fat consists of fat accumulation in adipose tissue, part of which protects internal organs in the chest and abdomen. A number of methods are available for determining body fat percentage, such as measurement with calipers or through the use of bioelectrical impedance analysis.
+The body fat percentage is a measure of fitness level, since it is the only body measurement which directly calculates a person's relative body composition without regard to height or weight. The widely used body mass index (BMI) provides a measure that allows the comparison of the adiposity of individuals of different heights and weights. While BMI largely increases as adiposity increases, due to differences in body composition, other indicators of body fat give more accurate results; for example, individuals with greater muscle mass or larger bones will have higher BMIs. As such, BMI is a useful indicator of overall fitness for a large group of people, but a poor tool for determining the health of an individual.
+
+
+</doc>
+
+<doc id="4788" title="Body mass index">
+Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms (kg) and height in metres (m).
+The BMI may be determined first by measuring its components by means of a weighing scale and a stadiometer. The multiplication and division may be carried out directly, by hand or using a calculator, or indirectly using a lookup table (or chart). The table displays BMI as a function of mass and height and may show other units of measurement (converted to metric units for the calculation). The table may also show contour lines or colours for different BMI categories.
+The BMI is a convenient rule of thumb used to broadly categorize a person as based on tissue mass (muscle, fat, and bone) and height. Major adult BMI classifications are underweight (under 18.5 kg/m2), normal weight (18.5 to 24.9), overweight (25 to 29.9), and obese (30 or more).  When used to predict an individual's health, rather than as a statistical measurement for groups, the BMI has limitations that can make it less useful than some of the alternatives, especially when applied to individuals with abdominal obesity, short stature, or high muscle mass.
+BMIs under 20 and over 25 have been associated with higher all-cause mortality, with the risk increasing with distance from the 20–25 range.
+
+
+</doc>
+
+<doc id="35268942" title="Borsari's sign">
+Borsieri's sign or Borsieri's line is a dermatological sign that consists of pressure by a sharp object (such as a fingernail) producing a white line on the skin that quickly turns red. It is present in scarlet fever. It was first described by French physician Giovanni Battista Borsieri de Kanifeld.
+</doc>
+
+<doc id="4647103" title="Bounding pulse">
+Watson's water hammer pulse, also known as Corrigan's pulse or collapsing pulse, is the medical sign (seen in aortic regurgitation) which describes a pulse that is bounding and forceful, rapidly increasing and subsequently collapsing, as if it were the sound of a water hammer that was causing the pulse.
+This is associated with increased stroke volume of the left ventricle and decrease in the peripheral resistance leading to the widened pulse pressure of aortic regurgitation.
+</doc>
+
+<doc id="35277251" title="Braverman's sign">
+Braverman's sign is a dermatological sign that consists of fine telangiectasias around the nail (periungually). They may be associated with connective tissue diseases. The sign is named after the dermatologist Irwin M. Braverman.
+</doc>
+
+<doc id="24529568" title="Breast mass">
+A breast mass, also known as a breast lump, is a localized swelling that feels different from the surrounding tissue. Breast pain, nipple discharge, or skin changes may be present. Concerning findings include masses that are hard, do not move easily, are of an irregular shape, or are firmly attached to surrounding tissue.Causes include fibrocystic change, fibroadenomas, breast infection, galactoceles, and breast cancer. Breast cancer makes up about 10% of breast masses. Diagnosis is typically by examination, medical imaging, and tissue biopsy. Tissue biopsy is often by fine needle aspiration biopsy. Repeated examination may be required.Treatment depends on the underlying cause. It may vary from simple pain medication to surgical removal. Some causes may resolve without treatment. Breast masses are relatively common. It is the most common breast complaint with the women's concern generally being that of cancer.
+
+
+</doc>
+
+<doc id="22065532" title="Brissaud's reflex">
+Brissaud's reflex is a clinical sign in which stroking the sole of the foot elicits contraction of tensor fasciae latae. This can occur when there is no movement of the toes, and is part of the extensor plantar response (Babinski's sign).
+The sign is named after Édouard Brissaud.
+</doc>
+
+<doc id="22064795" title="Broadbent inverted sign">
+The Broadbent inverted sign is a clinical sign in which pulsation is seen on the postero-lateral wall of the left side of the chest in time with cardiac systole. This was originally thought to be due to an aneurysm of the left atrium, but is now known to be more commonly associated with left ventricular hypertrophy. The sign is named after Sir William Broadbent.
+</doc>
+
+<doc id="22065038" title="Broadbent sign">
+Broadbent sign is a clinical sign in which the 11th and 12th ribs are indrawn, with narrowing of the intercostal space posteriorly, which is seen in case adhesive pericarditis due to pericardial adhesions to the diaphragm.The sign is named after Walter Broadbent, and was published in his first paper in 1895, although it may have been inspired by his father, Sir William Broadbent.
+</doc>
+
+<doc id="22065928" title="Brodie–Trendelenburg percussion test">
+The Brodie–Trendelenburg percussion test is a medical test to determine valvular incompetence in superficial veins. A finger is placed over the lower (distal) part of the vein being examined. The upper (proximal) part of the vein is then tapped (percussed). If the impulse is felt by the finger placed at the lower end, it indicates incompetence of valves in that vein.
+The test is used as part of the examination of varicose veins. It is named after Sir Benjamin Collins Brodie and Friedrich Trendelenburg.
+</doc>
+
+<doc id="61208339" title="Brown's vasomotor index">
+Brown's vasomotor index is a test to assess the degree of vasospasm in peripheral arterial disease. The same test is also used to check if sympathectomy is a possible management option for peripheral arterial disease.
+</doc>
+
+<doc id="1351999" title="Brudziński's sign">
+Brudziński's sign or a Brudziński sign is any of three medical signs, all of which may occur in meningitis or meningism. All three are named after Józef Brudziński. In English, the name is often written without the diacritic (like many borrowed words) (Brudzinski) and is pronounced .
+</doc>
+
+<doc id="641156" title="Bruise">
+A bruise, also known as a contusion, is a type of hematoma of tissue, the most common cause being capillaries damaged by trauma, causing localized bleeding that extravasates into the surrounding interstitial tissues. Most bruises occur close enough to the epidermis such that the bleeding causes a visible discoloration. The bruise then remains visible until the blood is either absorbed by tissues or cleared by immune system action. Bruises which do not blanch under pressure can involve capillaries at the level of skin, subcutaneous tissue, muscle, or bone.Bruises are not to be confused with other similar-looking lesions. Such lesions include (1) petechia (less than 3 mm (0.12 in), resulting from numerous and diverse etiologies such as adverse reactions from medications such as warfarin, straining, asphyxiation, platelet disorders and diseases such as cytomegalovirus); and (2) purpura (3–10 mm (0.12–0.39 in)), classified as palpable purpura or non-palpable purpura and indicating various pathologic conditions such as thrombocytopenia. Additionally, (3) although many terminology schemas treat an ecchymosis (plural, ecchymoses) (size, more than 1 cm (0.39 in)) as synonymous with a bruise, in some other schemas, an ecchymosis is differentiated by its remoteness from the source and cause of bleeding, with blood dissecting through tissue planes and settling in an area remote from the site of trauma or even nontraumatic pathology, such as in periorbital ecchymosis ("raccoon eyes"), arising from a basilar skull fracture or from a neuroblastoma.As a type of hematoma, a bruise is always caused by internal bleeding into the interstitial tissues which does not break through the skin, usually initiated by blunt trauma, which causes damage through physical compression and deceleration forces. Trauma sufficient to cause bruising can occur from a wide variety of situations including accidents, falls, and surgeries. Disease states such as insufficient or malfunctioning platelets, other coagulation deficiencies, or vascular disorders, such as venous blockage associated with severe allergies can lead to the formation of purpura which is not to be confused with trauma-related bruising/contusion. If the trauma is sufficient to break the skin and allow blood to escape the interstitial tissues, the injury is not a bruise but bleeding, a different variety of hemorrhage. Such injuries may be accompanied by bruising elsewhere.
+
+
+</doc>
+
+<doc id="30482730" title="Bruns nystagmus">
+Bruns nystagmus is an unusual type of bilateral nystagmus most commonly occurring in patients with cerebellopontine angle tumours. It is caused by the combination of slow, large amplitude nystagmus (gaze paretic nystagmus) when looking towards the side of the lesion, and rapid, small amplitude nystagmus (vestibular nystagmus) when looking away from the side of the lesion. It occurs in 11% of patients with vestibular schwannoma, and occurs mainly in patients with larger tumours (67% of patients with tumours over 3.5 cm diameter). Bruns nystagmus is also associated with an increased incidence of balance disturbance in patients with vestibular schwannoma. It may be caused by the compression of both flocculi, the vestibular part of the cerebellum, and improvement in both the nystagmus and balance problems occur commonly after removal of the tumour.Bruns nystagmus is named for Ludwig Bruns (1858 – 1915).
+</doc>
+
+<doc id="55902685" title="Budin's sign">
+Budin's sign (or Signe de Budin) is a clinical sign to detect the presence of pus in breast milk. It was first described in 19th century by the French obstetrician Pierre-Constant Budin.
+</doc>
+
+<doc id="8270993" title="Buphthalmos">
+Buphthalmos (plural: buphthalmoses) is enlargement of the eyeball and is most commonly seen in infants and young children. It is sometimes referred to as buphthalmia (plural buphthalmias).  It usually appears in the newborn period or the first 3 months of life. and in most cases indicates the presence of congenital (infantile) glaucoma, which is a disorder in which elevated pressures within the eye lead to structural eye damage and vision loss.
+
+
+</doc>
+
+<doc id="22076752" title="Burton's line">
+Burton's line, also known as the Burton line or Burtonian line, is a clinical sign found in patients with chronic lead poisoning. It is a very thin, black-blue line visible along the margin of the gums, at the base of the teeth. It is caused by the reaction between circulating lead and sulphur ions produced by oral bacteria, forming deposits of lead sulfide in the gums.The sign was described in 1840 by Henry Burton:
+The edges of the gums attached to the necks of two or more teeth of either jaw, were distinctly bordered by a narrow leaden-blue line, about the one-twentieth part of an inch in width, whilst the substance of the gum apparently retained its ordinary colour and condition.
+A similar line, the "bismuth line", occurs in people who have ingested bismuth compounds; bismuth, however, is of very low toxicity.
+</doc>
+
+<doc id="1372355" title="Café au lait spot">
+Café au lait spots, or café au lait macules, are flat, hyperpigmented birthmarks. The name café au lait is French for "coffee with milk" and refers to their light-brown color. They are caused by a collection of pigment-producing melanocytes in the epidermis of the skin. These spots are typically permanent and may grow or increase in number over time.Café au lait spots are often harmless but may be associated with syndromes such as neurofibromatosis type 1 and McCune–Albright syndrome. Café au lait lesions with rough borders ("coast of Maine") may be seen in McCune–Albright syndrome. In contrast, café au lait lesions of neurofibromatosis type 1 have smooth borders ("coast of California").
+
+
+</doc>
+
+<doc id="70126157" title="Calibrated automated thrombogram">
+The calibrated automated thrombogram (CAT or CT) is a thrombin generation assay (TGA) and global coagulation assay (GCA) which can be used as a coagulation test to assess thrombotic risk. It is the most widely used TGA. The CAT is a semi-automated test performed in a 96-well plate and requires specialized technologists to be performed. As a result, it has seen low implementation in routine laboratories and has been more limited to research settings. Lack of standardization with the CAT has also led to difficulties in study-to-study comparisons in research. However, efforts have recently been made towards standardization of the assay. An example of a specific commercial CAT is the Thrombinoscope by Thrombinoscope BV (now owned by Diagnostica Stago).The CAT can be used to measure thrombogram parameters such as the endogenous thrombin potential (ETP) and to assess activated protein C resistance (APCR). The CAT ETP-based APC resistance test is especially sensitive to estrogen-induced procoagulation, such as with combined oral contraceptives.In 2018, a commercial fully-automated TGA system and alternative to the CAT called the ST Genesia debuted. It has been said that this system should allow for more widespread adoption of TGAs in clinical laboratories. The ST Genesia system also shows improved reproducibility compared to the CAT.
+</doc>
+
+<doc id="21724429" title="Cannon A waves">
+Cannon A waves, or cannon atrial waves, are waves seen occasionally in the jugular vein of humans with certain cardiac arrhythmias. When the atria and ventricles happen to contract simultaneously, the right atrium contracts against a closed tricuspid valve, resulting in back pressure into the venous system that can be seen in the jugular venous pulse as a high-amplitude "cannon wave". It is associated with heart block, in particular third-degree (complete) heart block. It is also seen in pulmonary hypertension. Cannon A waves may also be seen in ventricular tachycardia due to the inherent AV dissociation of the arrhythmia.This wave will cause pulsation in the neck and abdomen, headache, cough, and jaw pain.
+</doc>
+
+<doc id="1141135" title="Caput medusae">
+Caput medusae is the appearance of distended and engorged superficial epigastric veins, which are seen radiating from the umbilicus across the abdomen. The name caput medusae (Latin for "head of Medusa") originates from the apparent similarity to Medusa's head, which had venomous snakes in place of hair. It is also a sign of portal hypertension. It is caused by dilation of the paraumbilical veins, which carry oxygenated blood from mother to fetus in utero and normally close within one week of birth, becoming re-canalised due to portal hypertension caused by liver failure.
+</doc>
+
+<doc id="4442943" title="Cardarelli's sign">
+Cardarelli's sign is an abnormal pulsation to the right of the trachea that may be found in people with an aneurysm of the aortic arch.It can be felt by pressing the right side of the trachea. A variation is Oliver's sign.It is named for Antonio Cardarelli.
+</doc>
+
+<doc id="18586555" title="Carnett's sign">
+In medicine, Carnett's sign is a finding on clinical examination in which (acute) abdominal pain remains unchanged or increases when the muscles of the abdominal wall are tensed. For this part of the abdominal examination, the patient can be asked to lift the head and shoulders from the examination table to tense the abdominal muscles. An alternative is to ask the patient to raise both legs with straight knees.
+A positive test indicates the increased likelihood that the abdominal wall and not the abdominal cavity is the source of the pain (for example, due to rectus sheath hematoma instead of appendicitis). A negative Carnett's sign is said to occur when the abdominal pain decreases when the patient is asked to lift the head; this points to an intra-abdominal cause of the pain.
+
+
+</doc>
+
+<doc id="22093876" title="Carvallo's sign">
+Carvallo's sign is a clinical sign found in patients with tricuspid regurgitation. The pansystolic murmur found in this condition becomes louder during inspiration; this sign enables it to be distinguished from mitral regurgitation.
+
+
+</doc>
+
+<doc id="22094459" title="Casal collar">
+The Casal collar or Casal necklace is a medical sign in which there is a redness and darkening of the skin around the neck, seen in people with pellagra. It becomes prominent following exposure to sun, and can be itchy with a burning feeling and pain. It can blister and weep, and turn into thick dark skin, with a coppery hue. If prolonged, the skin becomes thin, dry and smooth.It is caused by a lack of the vitamin niacin (vitamin B3). Seborrheic dermatitis may appear similar.The sign is named after Gaspar Casal.
+</doc>
+
+<doc id="8511333" title="Central facial palsy">
+Central facial palsy (colloquially referred to as central seven) is a symptom or finding characterized by paralysis or paresis of the lower half of one side of the face. It usually results from damage to upper motor neurons of the facial nerve.
+The facial motor nucleus has dorsal and ventral divisions that contain lower motor neurons supplying the muscles of the upper and lower face, respectively. The dorsal division receives bilateral upper motor neuron input (i.e. from both sides of the brain) while the ventral division receives only contralateral input (i.e. from the opposite side of the brain).
+Thus, lesions of the corticobulbar tract between the cerebral cortex and pons and the facial motor nucleus destroy or reduce input to the ventral division, but ipsilateral input (i.e. from the same side) to the dorsal division is retained. As a result, central facial palsy is characterized by hemiparalysis or hemiparesis of the contralateral muscles of facial expression, but not the muscles of the forehead.
+</doc>
+
+<doc id="26488442" title="Cervical lymphadenopathy">
+Cervical lymphadenopathy refers to lymphadenopathy of the cervical lymph nodes (the glands in the neck). The term lymphadenopathy strictly speaking refers to disease of the lymph nodes, though it is often used to describe the enlargement of the lymph nodes. Similarly, the term lymphadenitis refers to inflammation of a lymph node, but often it is used as a synonym of lymphadenopathy.
+Cervical lymphadenopathy is a sign or a symptom, not a diagnosis. The causes are varied, and may be inflammatory, degenerative, or neoplastic. In adults, healthy lymph nodes can be palpable (able to be felt), in the axilla, neck and groin. In children up to the age of 12 cervical nodes up to 1 cm in size may be palpable and this may not signify any disease. If nodes heal by resolution or scarring after being inflamed, they may remain palpable thereafter. In children, most palpable cervical lymphadenopathy is reactive or infective. In individuals over the age of 50, metastatic enlargement from cancers (most commonly squamous cell carcinomas) of the aerodigestive tract should be considered.
+
+
+</doc>
+
+<doc id="11998984" title="Cervical motion tenderness">
+Cervical motion tenderness or cervical excitation is a sign found on a gynecological pelvic examination suggestive of pelvic pathology. Classically, it is present in the setting of pelvic inflammatory disease (PID) or ectopic pregnancy and is of some use to help differentiate PID from appendicitis. It is also known colloquially as chandelier sign due to the pain being so excruciating upon bimanual pelvic exam (a part of a gynecological physical examination where two fingers are used to feel the anatomy of the pelvis) that it is as if the patient reaches up to motion the grabbing of a ceiling-mounted chandelier.
+Seen in PID.
+</doc>
+
+<doc id="2976517" title="Chadwick's sign">
+Chadwick sign is a medical clinical sign characterised by the bluish-violet discolouration of the mucous membranes of the vulva, vagina (particularly on the anterior vaginal wall), and the cervix, resulting from venous congestion due to increased blood flow as part of the maternal physiological changes in pregnancy. This clinical sign can be observed during a patient's examination as early as 8 to 12 weeks' gestation, serving as an early sign of pregnancy, but it is rarely seen before 7 weeks' gestation.The discovery of this colour change dates back to approximately 1836 when French doctor Étienne Joseph Jacquemin (1796–1872) first identified it. Subsequently, James Read Chadwick, after presenting a paper before the American Gynecological Society in 1886, and subsequently publishing it the following year, brought attention to this phenomenon. In his paper, Chadwick acknowledged Jacquemin for the initial discovery of the color changes associated with pregnancy.
+</doc>
+
+<doc id="272190" title="Chancre">
+A chancre ( SHANG-kər) is a painless genital ulcer most commonly formed during the primary stage of syphilis. This infectious lesion forms around 21 days after the initial exposure to Treponema pallidum, the gram-negative spirochaete bacterium causing syphilis, but can range from 10 to 90 days. Without treatment it may persist for two to six weeks before healing. Chancres transmit syphilis through direct physical contact. These ulcers usually form on or around the anus, mouth, penis and vulva. 
+Chancres are also associated with the African trypanosomiasis (sleeping sickness), surrounding the area of the tsetse fly bite.
+</doc>
+
+<doc id="23242559" title="Cherry-red spot">
+A cherry-red spot is a finding in the macula of the eye in a variety of lipid storage disorders and in central retinal artery occlusion.
+It describes the appearance of a small circular choroid shape as seen through the fovea centralis.
+  Its appearance is due to a relative transparency of the macula; storage disorders cause the accumulation of storage material within the cell layers of the retina, however, the macula, which is relatively devoid of cellular layers, does not build up this material, and thus allows the eye to see through the macula to the red choroid below.The sign was first described by Warren Tay, founding member of the British Ophthalmological Society, in 1881, with reference to a patient with Tay–Sachs disease.
+The cherry red spot is seen in central retinal artery occlusion, appearing several hours after the blockage of the retinal artery occurs.  The cherry red spot is seen because the macula receives its blood supply from the choroid, supplied by the long and short posterior ciliary arteries, while the surrounding retina is pale due to retinal artery infarction. It is also seen in several other conditions, classically Tay–Sachs disease, but also in Niemann–Pick disease, Sandhoff disease, and mucolipidosis.
+
+
+</doc>
+
+<doc id="58532765" title="Circulating mitochondrial DNA">
+Circulating mitochondrial DNA, also called cell-free circulating mitochondrial DNA and circulating cell-free mitochondrial DNA (ccf mtDNA), are short sections of mitochondrial DNA (mtDNA) that are released by cells undergoing stress or other damaging or pathological events. Circulating mitochondrial DNA is recognized by the immune system and activates inflammatory reactions. It is also a biomarker that can be used to detect the degree of damage from myocardial infarctions, cancers and ordinary stress. In certain situations it acts as a hormone.Plasma or serum levels of ccf mtDNA have been seen to be of marked difference in people with cancer. These higher levels have shown to be a reliable non-invasive biomarker in the diagnosis and prognosis of many kinds of tumours.Specific analysis of tumor-derived circulating mitochondrial DNA is challenging in human samples as it requires to track in plasma defined mutations, or alterations from the mitochondrial genome. In animal models, separating tumor-derived DNA in plasma from non-tumor derived DNA is easier. A proof of principle demonstrated the sensitivity of detecting tumor-derived circulating mitochondrial DNA in the plasma, CSF and urine of xenografted animals.
+</doc>
+
+<doc id="44690654" title="Circulating tumor DNA">
+Circulating tumor DNA (ctDNA) is tumor-derived fragmented DNA in the bloodstream that is not associated with cells. ctDNA should not be confused with cell-free DNA (cfDNA), a broader term which describes DNA that is freely circulating in the bloodstream, but is not necessarily of tumor origin. Because ctDNA may reflect the entire tumor genome, it has gained traction for its potential clinical utility; "liquid biopsies" in the form of blood draws may be taken at various time points to monitor tumor progression throughout the treatment regimen.ctDNA originates directly from the tumor or from circulating tumor cells (CTCs), which describes viable, intact tumor cells that shed from primary tumors and enter the bloodstream or lymphatic system. The precise mechanism of ctDNA release is unclear. The biological processes postulated to be involved in ctDNA release include apoptosis and necrosis from dying cells, or active release from viable tumor cells. Studies in both human (healthy and cancer patients) and xenografted mice show that the size of fragmented cfDNA is predominantly 166bp long, which corresponds to the length of DNA wrapped around a nucleosome plus a linker. Fragmentation of this length might be indicative of apoptotic DNA fragmentation, suggesting that apoptosis may be the primary method of ctDNA release. The fragmentation of cfDNA is altered in the plasma of cancer patients.
+In healthy tissue, infiltrating phagocytes are responsible for clearance of apoptotic or necrotic cellular debris, which includes cfDNA. ctDNA in healthy patients is only present at low levels but higher levels of ctDNA in cancer patients can be detected with increasing tumor sizes. This possibly occurs due to inefficient immune cell infiltration to tumor sites, which reduces effective clearance of ctDNA from the bloodstream. Comparison of mutations in ctDNA and DNA extracted from primary tumors of the same patients revealed the presence of identical cancer-relevant genetic changes. This led to the possibility of using ctDNA for earlier cancer detection and treatment follow up.
+
+
+</doc>
+
+<doc id="45955" title="Clanging">
+Clanging (or clang associations) is a symptom of mental disorders, primarily found in patients with schizophrenia and bipolar disorder. This symptom is also referred to as association chaining, and sometimes, glossomania.
+Steuber defines it as "repeating chains of words that are associated semantically or phonetically with no relevant context". This may include compulsive rhyming or alliteration without apparent logical connection between words.
+Clanging refers specifically to behavior that is situationally inappropriate. While a poet rhyming is not evidence of mental illness, disorganized speech that impedes the patient's ability to communicate is a disorder in itself, often seen in schizophrenia.
+</doc>
+
+<doc id="22145930" title="Claybrook sign">
+Claybrook sign is a clinical sign in which heart sounds and breath sounds can be heard transmitted through the abdominal wall on auscultation. It occurs in patients with rupture of an abdominal viscus.The sign is named after Edwin Claybrook.
+</doc>
+
+<doc id="638153" title="Clonus">
+Clonus is a set of involuntary and rhythmic muscular contractions and relaxations. Clonus is a sign of certain neurological conditions, particularly associated with upper motor neuron lesions involving descending motor pathways, and in many cases is accompanied by spasticity (another form of hyperexcitability).  Unlike small spontaneous twitches known as fasciculations (usually caused by lower motor neuron pathology), clonus causes large motions that are usually initiated by a reflex. Studies have shown clonus beat frequency to range from three to eight Hz on average, and may last a few seconds to several minutes depending on the patient’s condition.
+
+
+</doc>
+
+<doc id="36552827" title="Collier's sign">
+Collier's sign (also known as Collier's tucked lid sign or posterior fossa stare) is bilateral or unilateral eyelid retraction.
+It is an accepted medical sign of a midbrain lesion, first described in 1927 by J Collier. With the eyes in the primary position, the sclera can be seen above the cornea, and further upgaze increases the distance between the eyelids and irises. Causes include upper dorsal midbrain supranuclear lesions such as Parinaud's syndrome, 'top of the basilar syndrome', midbrain infarction, neurodegeneration or tumour, multiple sclerosis, encephalitis, and Miller-Fisher syndrome. The cause is thought to be damage to the posterior commissure levator inhibitory fibres which originate in the M-group of neurons.
+
+
+</doc>
+
+<doc id="22153858" title="Comby sign">
+The Comby sign is a clinical sign of early measles in which thin, whitish patches are seen on the gums and buccal mucosa due to desquamation of epithelial cells.The sign is named after Jules Comby.
+</doc>
+
+<doc id="12329357" title="Concealed conduction">
+Concealed conduction is tissue stimulation without direct effect, but leading to a change in conduction characteristics.A common example would be an interpolated PVC (a type of premature ventricular contraction) during normal sinus rhythm; the PVC does not cause an atrial contraction, because the retrograde impulse from the PVC does not completely penetrate the AV node. However, this AV node stimulation can cause a delay in subsequent AV conduction by modifying the AV node's subsequent conduction characteristics. Hence, the P-R interval after the PVC is longer than the baseline P-R interval.Another variation on this concept is seen in atrial flutter. As a result of the rapid atrial rate, some of the atrial activity fails to get through the AV node in an antegrade direction but can alter the rate at which a subsequent atrial impulse is conducted. In this circumstance, an alteration in the F-wave to QRS relationship is seen.
+
+
+</doc>
+
+<doc id="29226037" title="Conjunctival suffusion">
+Conjunctival suffusion is an eye finding occurring early in leptospirosis, which is caused by Leptospira interrogans.  Conjunctival suffusion is characterized by redness of the conjunctiva that resembles conjunctivitis, but it does not involve inflammatory exudates.  Swelling of the conjunctiva (chemosis) is seen along the corners of the eye (palpebral fissures).About 30 percent of people with leptospirosis (also known as Weil's disease) develop conjunctival suffusion. When it does occur, it develops towards the end of the early phase of the illness.  Even in severe cases, the suffusion occurs in the first phase of the illness.Conjunctival suffusion may also occur in patients with a Hantavirus infection.  In a 1994 study of 17 patients with Hantavirus infections, 3 had conjunctival suffusion.
+</doc>
+
+<doc id="47001735" title="Coopernail sign">
+Coopernail sign is a medical sign that denotes fracture of pelvis.
+</doc>
+
+<doc id="41222297" title="Cornea verticillata">
+Cornea verticillata, also called  vortex keratopathy or whorl keratopathy, is a condition characterised by corneal deposits at the level of the basal epithelium forming a faint golden-brown whorl pattern.  It is seen in Fabry disease or in case of prolonged amiodarone intake. Furthermore, it is a common adverse side effect of the use of rho-kinase inhibitors in glaucoma therapy.
+</doc>
+
+<doc id="10440016" title="Cotton wool spots">
+Cotton wool spots are opaque fluffy white patches on the retina of the eye that are considered an abnormal finding during a funduscopic exam (also called an ophthalmoscopic exam). Cotton wool spots are typically a sign of another disease state, most common of which is diabetic retinopathy. The irregularly shaped white patches are a result of ischemia, or reduced blood flow and oxygen, in the retinal nerve fiber layer, which is located in the distribution of the capillaries of the superficial layer of the retina. These areas with reduced blood flow reflect the obstruction of axoplasmic flow due to mechanical or vascular causes and the consequential accumulation as a result of decreased axonal transport. This reduced axonal transport can then cause swelling or bulging on the surface layer of the retina, increasing the potential for nerve fiber damage.The presence of cotton wool spots may resolve independently over time, typically in 4–12 weeks, or may depend on the underlying disease causing the condition. Diagnosis and treatment of the underlying disease state may be beneficial in the treatment and management of cotton wool spots.
+
+
+</doc>
+
+<doc id="23076926" title="Cozen's test">
+Tennis elbow, also known as lateral epicondylitis or enthesopathy of the extensor carpi radialis origin, is an enthesopathy (attachment point disease) of the origin of the extensor carpi radialis brevis on the lateral epicondyle. The outer part of the elbow becomes painful and tender. The pain may also extend into the back of the forearm. Onset of symptoms is generally gradual although they can seem sudden and be misinterpreted as an injury. Golfer's elbow is a similar condition that affects the inside of the elbow.Enthesopathies are idiopathic, meaning science has not yet determined the cause. Enthesopathies are most common in middle age (ages 35 to 60).It is often stated that the condition is caused by excessive use of the muscles of the back of the forearm, but this is not supported by experimental evidence and is a common misinterpretation or unhelpful thought about symptoms. It may be associated with work or sports, classically racquet sports (including paddle sports), but most people with the condition are not exposed to these activities. The diagnosis is based on the symptoms and examination. Medical imaging is not particularly useful. Signs consistent with the diagnosis include pain when a subject tries to bend back the wrist  against resistance.The natural history of untreated enthesopathy is resolution over a period of 1–2 years. Palliative (symptoms alleviating) treatment may include pain medications such as NSAIDS or acetaminophen (paracetamol), a wrist brace, or a strap over the upper forearm. The role of corticosteroid injections is debated. Recent evidence suggests corticosteroid injections may delay symptom resolution.
+
+
+</doc>
+
+<doc id="1565703" title="Crepitus">
+Crepitus is "a grating sound or sensation produced by friction between bone and cartilage or the fractured parts of a bone".
+Various types of crepitus that can be heard in joint pathologies are:
+
+Bone crepitus: This can be heard when two fragments of a fracture are moved against each other.
+Joint crepitus: This can be obtained when the affected joint is passively moved with one hand, while the other hand is placed on the joint to feel the crepitus.
+Crepitus of bursitis: This is heard when the fluid in the bursa contains small, loose fibrinous particles.
+Crepitus of tenosynovitis: From inflammation of the fluid-filled sheath (synovium) that surrounds a tendon.
+
+
+</doc>
+
+<doc id="22155390" title="Crichton-Browne sign">
+Crichton-Browne sign is a clinical sign in which there is twitching of the outer margins of the eyes and mouth. It is an early sign of general paralysis of the insane.
+The sign was described by Sir James Crichton-Browne.
+</doc>
+
+<doc id="22163816" title="Cruveilhier–Baumgarten bruit">
+The Cruveilhier–Baumgarten bruit is a clinical sign which can be found in Cruveilhier-Baumgarten disease. In this condition there are prominent umbilical and paraumbilical veins; auscultation over these vessels may reveal a humming sound (i.e. a bruit).
+The sign was named after Jean Cruveilhier and Paul Clemens von Baumgarten.
+
+
+</doc>
+
+<doc id="1565362" title="Cryoglobulinemia">
+Cryoglobulinemia is a medical condition in which the blood contains large amounts of pathological cold sensitive antibodies called  cryoglobulins – proteins (mostly immunoglobulins themselves) that become insoluble at reduced temperatures. This should be contrasted with cold agglutinins, which cause agglutination of red blood cells.
+Cryoglobulins typically precipitate (clumps together) at temperatures below normal body temperature – 37 degrees Celsius (99 degrees Fahrenheit) – and will dissolve again if the blood is heated. The precipitated clump can block blood vessels and cause toes and fingers to become gangrenous. While this disease is commonly referred to as cryoglobulinemia in the medical literature, it is better termed cryoglobulinemic disease for two reasons: 1) cryoglobulinemia is also used to indicate the circulation of (usually low levels of) cryoglobulins in the absence of any symptoms or disease and 2) healthy individuals can develop transient asymptomatic cryoglobulinemia following certain infections.In contrast to these benign instances of circulating cryoglobulins, cryoglobulinemic disease involves the signs and symptoms of precipitating cryoglobulins and is commonly associated with various pre-malignant, malignant, infectious, or autoimmune diseases that are the underlying cause for production of the cryoglobulins.
+</doc>
+
+<doc id="1309011" title="Cullen's sign">
+Cullen's sign is superficial edema and bruising in the subcutaneous fatty tissue around the umbilicus.
+It is named for gynecologist Thomas Stephen Cullen (1869–1953), who first described the sign in ruptured ectopic pregnancy in 1916.This sign takes 24–48 hours to appear and can predict acute pancreatitis, with mortality rising from 8–10% to 40%. It may be accompanied by Grey Turner's sign (bruising of the flank), which may then be indicative of pancreatic necrosis with retroperitoneal or intra-abdominal bleeding.
+</doc>
+
+<doc id="379828" title="Cyanosis">
+Cyanosis is the change of body tissue color to a bluish-purple hue, as a result of decrease in the amount of oxygen bound to the hemoglobin in the red blood cells of the capillary bed. Cyanosis is apparent usually in the  body tissues covered with thin skin, including the mucous membranes, lips, nail beds, and ear lobes. Some medications may cause discoloration such as medications containing amiodarone or silver. Furthermore, mongolian spots, large birthmarks, and the consumption of food products with blue or purple dyes can also result in the bluish skin tissue discoloration and may be mistaken for cyanosis.  Appropriate physical examination and history taking is a crucial part to diagnose cyanosis. Management of cyanosis involves treating the main cause, as cyanosis isn’t a disease, it is a symptom.Cyanosis is further classified into central cyanosis and peripheral cyanosis.
+
+
+</doc>
+
+<doc id="56063050" title="D'Espine sign">
+d'Espine sign is a bronchial breathing heard over the vertebral spines (on the back) below the level of tracheal bifurcation; below the fourth thoracic spine in adults if there is subcarinal (mediastinal) lymphadenopathy.It is named for Swiss paediatrician Jean-Henri-Adolphe d'Espine (1846-1930).
+</doc>
+
+<doc id="22169024" title="Dahl's sign">
+Dahl's sign (also Thinker's sign or Target sign) is a clinical sign in which areas of darkened (hyperpigmentation) and thickened (hyperkeratotic) skin are seen on the lower thighs and elbows. It occurs in patients with longstanding severe chronic obstructive pulmonary disease.The sign occurs because patients with COPD tend to sit forwards with their arms resting on their thighs, leading to chronic erythema of the skin at the points of contact. Over time, haemosiderin released from red blood cells trapped in the skin is released causing a brown discolouration of the skin.Air trapping in the lungs of COPD patients causes the diaphragm to be pushed down and flattened, which reduces the effect of contraction of the diaphragm during inspiration. Sitting forwards pushes the abdominal contents upwards, increasing the curvature of the diaphragm and improving its effectiveness.Bilateral cubital tunnel syndrome may also be found in patients with Dahl's sign.Dahl's sign was described by K. V. Dahl in 1970.
+</doc>
+
+<doc id="3752320" title="Dance's sign">
+Dance's sign is an eponymous medical sign consisting of an investigation of the right lower quadrant of the abdomen for retraction, which can be an indication of intussusception, i.e. those with intussusception may have retraction of the right iliac fossa.
+</doc>
+
+<doc id="3236385" title="De Musset's sign">
+de Musset's sign is a condition in which there is rhythmic nodding or bobbing of the head in synchrony with the beating of the heart, in general as a result of aortic regurgitation whereby blood from the aorta regurgitates into the left ventricle due to a defect in the aortic valve. The nodding is an indication that the systolic pulse is being felt by the patient because of the increased pulse pressure resulting from the aortic insufficiency. The condition was named after the French poet Alfred de Musset. De Musset's sign is a type of head tremor.
+</doc>
+
+<doc id="75982" title="Defecation">
+Defecation (or defaecation) follows digestion, and is a necessary process by which organisms eliminate a solid, semisolid, or liquid waste material known as feces from the digestive tract via the anus. The act has a variety of names ranging from the common, like pooping or crapping, to the technical, e.g. bowel movement, to the obscene (shitting), to the euphemistic ("going for a number two", "dropping a deuce" or "taking a dump"), to the juvenile ("making doo-doo"). The topic, usually avoided in polite company, can become the basis for some potty humor.
+Humans expel feces with a frequency varying from a few times daily to a few times weekly. Waves of muscular contraction (known as peristalsis) in the walls of the colon move fecal matter through the digestive tract towards the rectum. Undigested food may also be expelled this way, in a process called egestion. When birds defecate, they also expel urine and urates in the same mass, whereas other animals may also urinate at the same time, but spatially separated. Defecation may also accompany childbirth and death. Babies defecate a unique substance called meconium prior to eating external foods.
+There are a number of medical conditions associated with defecation, such as diarrhea and constipation, some of which can be serious. The feces expelled can carry diseases, most often through the contamination of food. E. coli is a particular concern.
+Before potty training, human feces are most often collected into a diaper. Thereafter, in many societies people commonly defecate into a toilet. However, open defecation, the practice of defecating outside without using a toilet of any kind, is still widespread in some developing countries. Some people defecate into the ocean. First world countries use sewage treatment plants and/or on-site treatment.
+</doc>
+
+<doc id="19191220" title="Dennie–Morgan fold">
+A Dennie–Morgan fold, also known as a Dennie–Morgan line or an infraorbital fold, is a fold or line in the skin below the lower eyelid. It can simply be an ethnic/genetic trait, but was found in one study to occur in 25% of patients with atopic dermatitis. The presence of Dennie–Morgan folds can be used as a diagnostic marker for allergy, with a sensitivity of 78% and specificity of 76% for atopic dermatitis according to one study, although another study found them to be of diagnostic significance in atopic dermatitis. The condition was described by Charles Clayton Dennie and David B. Morgan in 1948. The pathophysiology of this sign is not clear. One proposed mechanism is that continuous spasm of the superior tarsal muscle and skin edema could be due to hypoxia from poor circulation.A Dennie–Morgan fold should not be confused with an "allergic shiner", which is a purple-gray discoloration with associated fullness beneath the lower eyelid. This is related to the accumulation of blood and other fluid in the infraorbital groove resulting from nasal congestion.
+
+
+</doc>
+

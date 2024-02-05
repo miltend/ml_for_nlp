@@ -1,0 +1,100 @@
+562958 Signs and symptoms
+1552040 Aaron's sign
+1552093 Abadie's sign of exophthalmic goiter
+1552143 Abadie's sign of tabes dorsalis
+26631883 Abdominal aura
+3961546 Abdominal mass
+54712 Abdominal obesity
+32066041 Abdominal reflex
+2916722 Abdominojugular test
+729741 Acanthosis nigricans
+9389302 Accommodative insufficiency
+38892935 Acholia
+5633227 Acrocyanosis
+70137625 Activated protein C resistance test
+13870861 Adynamia
+40159185 Air displacement plethysmography
+46994624 Alder's sign
+58790921 Allergic shiner
+295833 Alogia
+30065682 Amsler sign
+729816 Anasarca
+178212 Anticoagulant
+46994043 Arapov's contracture
+39221350 Arlt's line
+16773737 Arteriovenous nicking
+4770748 Ashman phenomenon
+4089295 Astasia-abasia
+9343928 Auditory hallucination
+21482860 Auenbrugger's sign
+46994501 Aure-Rozanova's sign
+14961858 Ballance's sign
+46995247 Bartomier-Michelson's sign
+1965767 Beau's lines
+22022377 Becker's sign
+22023408 Bekhterev–Jacobsohn reflex
+22023053 Bekhterev–Mendel reflex
+41967550 Bilateral hilar lymphadenopathy
+29665262 Biodosimetry
+4584230 Biomarker (medicine)
+68866119 Blue scrotum sign of Bryant
+1257105 Blumberg's sign
+22033296 Boas' point
+8651105 Boas' sign
+4586751 Body composition
+3937909 Body fat percentage
+4788 Body mass index
+35268942 Borsari's sign
+4647103 Bounding pulse
+35277251 Braverman's sign
+24529568 Breast mass
+22065532 Brissaud's reflex
+22064795 Broadbent inverted sign
+22065038 Broadbent sign
+22065928 Brodie–Trendelenburg percussion test
+61208339 Brown's vasomotor index
+1351999 Brudziński's sign
+641156 Bruise
+30482730 Bruns nystagmus
+55902685 Budin's sign
+8270993 Buphthalmos
+22076752 Burton's line
+1372355 Café au lait spot
+70126157 Calibrated automated thrombogram
+21724429 Cannon A waves
+1141135 Caput medusae
+4442943 Cardarelli's sign
+18586555 Carnett's sign
+22093876 Carvallo's sign
+22094459 Casal collar
+8511333 Central facial palsy
+26488442 Cervical lymphadenopathy
+11998984 Cervical motion tenderness
+2976517 Chadwick's sign
+272190 Chancre
+23242559 Cherry-red spot
+58532765 Circulating mitochondrial DNA
+44690654 Circulating tumor DNA
+45955 Clanging
+22145930 Claybrook sign
+638153 Clonus
+36552827 Collier's sign
+22153858 Comby sign
+12329357 Concealed conduction
+29226037 Conjunctival suffusion
+47001735 Coopernail sign
+41222297 Cornea verticillata
+10440016 Cotton wool spots
+23076926 Cozen's test
+1565703 Crepitus
+22155390 Crichton-Browne sign
+22163816 Cruveilhier–Baumgarten bruit
+1565362 Cryoglobulinemia
+1309011 Cullen's sign
+379828 Cyanosis
+56063050 D'Espine sign
+22169024 Dahl's sign
+3752320 Dance's sign
+3236385 De Musset's sign
+75982 Defecation
+19191220 Dennie–Morgan fold

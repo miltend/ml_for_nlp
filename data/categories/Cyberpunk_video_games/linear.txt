@@ -1,0 +1,556 @@
+<doc id="54355881" title="868-HACK">
+868-HACK is a 2013 roguelike video game developed and published by Michael Brough. The player controls a hacking program in a computer system and must grab as much computer data as possible before a defence program destroys it.
+Development of the game began in March 2013, as part of the "Seven-Day Roguelike" competition. It was released in August 2013 for iOS and in January 2015 for Microsoft Windows and Mac OS X. The "PLAN.B" expansion pack was released in July 2017.
+868-HACK received mostly positive reviews from critics. The game was nominated for an Excellence in Design award at the Independent Games Festival, receiving an honorable mention for the Seumas McNally Grand Prize there. 868-HACK was ranked 42nd on Polygon's list of "The 100 best games of the decade (2010–2019)" and 29th on Paste's list of "The 50 Best Mobile Games of the 2010s".
+</doc>
+
+<doc id="41971563" title="2064: Read Only Memories">
+2064: Read Only Memories is a cyberpunk adventure game developed by MidBoss. It was directed by John "JJSignal" James, written by Valerie Amelia Thompson and Philip Jones, and features an original soundtrack by 2 Mello.
+It was originally released on computer platforms as Read Only Memories in October 2015, and the title was later updated coinciding with its PlayStation 4 release in January 2017.The game was heavily inspired by Snatcher, Rise of the Dragon, Gabriel Knight, and other 1980s and 1990s adventure games. A sequel, named Read Only Memories: Neurodiver, will be released in 2024.
+</doc>
+
+<doc id="71728043" title="Adrenix">
+Adrenix is a 1998 first-person shooter video game created by developer Digital Dialect and published by Playmates Interactive Entertainment.
+</doc>
+
+<doc id="47155408" title="AdvertCity">
+AdvertCity is a business simulation video game developed and published by VoxelStorm.  The game was released on 17 April 2015 for Microsoft Windows, Linux, OS X.  The player takes on the role of an advertising magnate in a dystopian future city with a cyberpunk aesthetic.
+</doc>
+
+<doc id="3308851" title="Æon Flux (video game)">
+Æon Flux is the video game adaptation of the 2005 science fiction film of the same name, with elements of the Æon Flux animated series. The game was developed by Terminal Reality and released in November 2005 in North America for PlayStation 2 and Xbox. This marked the first (and so far, only) successful release of a video game based on Æon Flux, after two failed earlier attempts.
+
+
+</doc>
+
+<doc id="7422556" title="Akira (video game)">
+Akira (アキラ) is a 1988 adventure video game by TOSE for the Family Computer console exclusively in Japan. It is based on Akira, the 1988 animated film version of Katsuhiro Otomo's manga of the same name.
+
+
+</doc>
+
+<doc id="414617" title="Anachronox">
+Anachronox is a 2001 role-playing video game produced by Tom Hall and the Dallas Ion Storm games studio. The game is centered on Sylvester "Sly Boots" Bucelli, a down-and-out private investigator who looks for work in the slums of Anachronox, a once-abandoned planet near the galaxy's jumpgate hub. He travels to other planets, amasses an unlikely group of friends, and unravels a mystery that threatens the fate of the universe. The game's science fiction story was influenced by cyberpunk, film noir, and unconventional humor. The story features a theme of working through the troubles of one's past.
+Gameplay in Anachronox is a mix of real-time exploration and turn-based combat; the player controls a party of up to three characters as they explore a 3D environment of futuristic cities, space vessels, and outdoor areas. Inspirations for the game include older role-playing video games such as Chrono Trigger and the Final Fantasy series, animator Chuck Jones and the novel Ender's Game. The game was built with a heavily modified version of id Software's Quake II engine, rewritten chiefly to allow a wider color palette, emotive animations and facial expressions, better lighting, particle effects, and camera effects.The development of Anachronox was long and difficult. Originally planned for a third-quarter 1998 release, it was released worldwide in June 2001 for Microsoft Windows. Tom Hall planned to create a sequel with the copious content removed during production. Critics enjoyed the game and awarded it high marks for its design and story. Ion Storm's Dallas offices were closed mere days after the game's release. In 2002, Anachronox cinematic director Jake Hughes spliced together gameplay footage and cutscenes to create a feature-length, award-winning machinima film.
+</doc>
+
+<doc id="47736487" title="Angel Devoid: Face of the Enemy">
+Angel Devoid: Face of the Enemy is a 1996 FMV-based tech noir graphic adventure game developed by Electric Dreams Inc.  and released by Mindscape for MS-DOS and Mac OS. A Japanese language version of the game was released under the title DeathMask for Sega Saturn and PlayStation.
+This first-person video game is set in a dark, futuristic cyberpunk-influenced world. Most of the characters that can be interacted with are played by live video game actors superimposed over a digital scenery; the cast includes Joseph Pilato and Eric Anderson.
+The player character is a police detective, who wears the face of an infamous criminal terrorist named Angel Devoid. Wandering around the fictional Neo-City, the player meets Devoid's acquaintances and has to survive against death hazards, including Devoid's past adversaries.
+</doc>
+
+<doc id="6707395" title="AquaNox">
+AquaNox is a series of submarine-based first-person shooter/simulation video games set in the distant future. The collection includes AquaNox, AquaNox 2: Revelation and AquaNox: The Angel's Tears. The predecessor and the starter of the series is the MS-DOS title Archimedean Dynasty.
+
+
+</doc>
+
+<doc id="65893567" title="The Ascent (video game)">
+The Ascent is a cyberpunk-themed action role-playing video game developed by Swedish indie game studio Neon Giant and published by Curve Digital for Microsoft Windows, Xbox Series X/S and Xbox One on 29 July 2021. It was developed using Unreal Engine 4 by a team of 12 people and is Neon Giant's debut in the industry. The game received positive reviews from critics upon its release, with praise for its visuals, combat, and soundtrack, but criticism for the emphasis on grinding.
+
+
+</doc>
+
+<doc id="59128796" title="The Assassin (cancelled video game)">
+The Assassin is an unreleased action role-playing video game that was in development by American studio OMC Games and planned to be published under the company's Hellified Games label on a scheduled Q1 2000 release date for the Atari Jaguar CD. It was intended to be a prequel to Orb Of Bengazi, another title that was in development by OMC for the add-on.The Assassin takes place in the future of the year 2147 where the player assume the role of Michael Steele, a detective from Chicago who is put on a trial for killing the perpetrator who murdered his brother Kavanaugh Steele as an act of revenge, but starts delving more in-depth on his investigation and getting caught on a web of deception when looking for answers to questions he was previously not aware of. Conceived and originally in development for the Atari 8-bit family of home computers, the game was later moved to the Jaguar CD after the author of the game came across with unforeseen technical issues with his 8-bit development equipment when moving from United States to Japan. The title was also set to feature an internally developed role-playing game system called Blood City.Although The Assassin was originally planned to be released sometime in 1999, it was later pushed back for release in 2000 but it never materialized in the end, despite reassurances by the developer. In addition to its prequel, OMC Games had three more games in development and planned to be released under their publishing label for the platform that failed to materialize as well.
+</doc>
+
+<doc id="2199024" title="B.A.T. (video game)">
+B.A.T. (Bureau of Astral Troubleshooters) is a futuristic point and click adventure game with some role-playing video game elements. It was first released in 1989 and available on several home computer platforms, mostly in 1990 and 1991. It was developed by Computer's Dream and published by Ubisoft. A sequel, B.A.T. II – The Koshan Conspiracy, was released in 1992.
+</doc>
+
+<doc id="4091066" title="B.A.T. II – The Koshan Conspiracy">
+B.A.T. II – The Koshan Conspiracy is a futuristic point and click adventure game written by Computer's Dream and published by Ubi Soft in 1992. It is the sequel to the 1990 game B.A.T.
+It is a futuristic role-playing game in which the player explores the city, talks to non-player characters, tries to solve puzzles, travels to new cities by use of a mini-game, buys weapons and ammo, engages in fire fights (also by way of a mini-game), buys a spaceship, and enters space. The player can even re-wire a wrist computer (B.O.B) in the game to perform different functions. It has a very open, non-linear play style.
+The Amiga and Atari ST versions shipped with a physical dongle to prevent piracy.
+The box art was painted by Luis Royo.
+</doc>
+
+<doc id="5089811" title="Batman Beyond: Return of the Joker (video game)">
+Batman Beyond: Return of the Joker, known as Batman of the Future: Return of the Joker in Europe, is a scrolling beat 'em up video game developed by Kemco and released by Ubi Soft for the Game Boy Color, PlayStation and Nintendo 64 in 2000 and 2001. The game is based on the film of the same name, which in turn was based on the TV series Batman Beyond. Players act as the new Batman Terry McGinnis, who takes over the position of the retired Bruce Wayne and fights against the Jokerz gang led by the recently revived Joker. Throughout the game, Batman fights the villain's cronies, who steal tech components from various laboratories and corporations in Gotham City. Joker uses them to take control of a missile-shooting satellite, which he plans to destroy the entire city with.
+Although presented at the 2000 E3 convention, Batman Beyond: Return of the Joker received sparse pre-release coverage. It garnered overwhelmingly negative critical reviews for its Nintendo 64 and Playstation versions, and a mixed reception for the Game Boy Color release. Despite some positive comments towards its multiple-batsuit mechanic and cutscenes, the game was heavily criticized for its outdated and repetitive beat 'em up style, low enemy AI, the uselessness of weapons and suits, amateurish graphics, and poor sound. The unbalanced challenge was also condemned; Game Boy Color and Nintendo 64 versions were reported to be beaten within a few hours, while the Playstation was stated to become excessively difficult by the second stage, made worse by lack of a password system.
+</doc>
+
+<doc id="40886228" title="Beam Breakers">
+Beam Breakers is a racing game released in 2002. It was published by JoWooD Productions and developed by Similis. The game takes place in the year 2173. It features flying cars in the city of New York.
+</doc>
+
+<doc id="290504" title="Beneath a Steel Sky">
+Beneath a Steel Sky is a 1994  point-and-click adventure game developed by British developer Revolution Software and published by Virgin Interactive Entertainment for MS-DOS and Amiga home computers. It was made available as freeware – and with the source code released – for PC platforms in 2003. Set in a dystopian cyberpunk future, the player assumes the role of Robert Foster, who was stranded in a wasteland known as "the Gap" as a child and adopted by a group of local Aboriginals, gradually adjusting to his life in the wilderness. After many years, armed security officers arrive, killing the locals and taking Robert back to Union City. He escapes and soon uncovers the corruption which lies at the heart of society.
+Originally titled Underworld, the game was a collaboration between game director Charles Cecil and comic book artist Dave Gibbons, and cost £40,000 to make. Cecil was a fan of Gibbons's work and approached with the idea of a video game. The game has a serious tone but features humour-filled dialogue, which came as a result of Cecil's and writer Dave Cummins's goal to find a middle ground between the earnestness of Sierra's and the slapstick comedy of LucasArts's adventure games. It was built using Revolution's Virtual Theatre engine, first used in Revolution's previous and debut release, 1992's Lure of the Temptress.
+It received positive reviews at the time of its release and is retrospectively viewed as a cult classic and Revolution's greatest game besides Broken Sword: The Shadow of the Templars. A remastered edition was released for iOS in 2009 as Beneath a Steel Sky Remastered, which also received a positive reception from the gaming press. A sequel was greenlit during the Broken Sword: The Serpent's Curse 2012 Kickstarter campaign, and was announced in March 2019. Entitled Beyond a Steel Sky, it was released on Apple Arcade in June 2020, on Steam in July 2020, and on GOG.com in March 2021.
+</doc>
+
+<doc id="61585058" title="Beyond a Steel Sky">
+Beyond a Steel Sky is a 2020 cyberpunk science fiction adventure game, written by Charles Cecil, and developed by Revolution Software. Set ten years after the events of the 1994 video game Beneath a Steel Sky, players assume the role of Robert Foster as he finds himself returning to Union City on the hunt for a kidnapped child, only to learn that the city's new utopia state is not what it appears to be. The game's design utilized the Unreal Engine 4, focusing on cel-shaded 3D graphics, including comic book-styled text boxes.
+The game was released on 26 June 2020 on the Apple Arcade subscription service for iOS and tvOS, and on July 16 on Steam for macOS, Windows, and Linux, and on Nintendo Switch, PlayStation 4, PlayStation 5,  Xbox One and Xbox Series X/S on November 30, 2021 and published by Microids. Following its release, it received positive reviews from critics.
+
+
+</doc>
+
+<doc id="30680801" title="Binary Domain">
+Binary Domain is a third-person shooter video game developed by Ryu Ga Gotoku Studio and published by Sega. It was released for PlayStation 3 and Xbox 360 in February 2012 and Windows in April 2012. The game is set in Tokyo, Japan, in the year 2080. It features innovative artificial intelligence technology.
+The game is set in a world where global warming has caused worldwide flooding, leaving much of the world uninhabitable. As a result, robots were used as the main labor force. The game features a consequence system, which decides how non-playable characters in the squad view and trust the player in story mode. The game also features seven different multiplayer modes, with five classes being available for players to choose.
+It was conceived by Toshihiro Nagoshi, who created the Like a Dragon video game series. The characters of Binary Domain were created with making realistic personalities and behavior in mind. The Consequence System was created to make the game as a competitive game in the third-person shooter genre. The game received mixed to positive reviews upon launch, with critics praising the game's story and Consequence System. However, it received criticisms regarding its voice recognition system. The game sold only 20,000 copies in North America by April 2012.
+
+
+</doc>
+
+<doc id="2593291" title="BioForge">
+BioForge is a 1995 action-adventure game developed by Origin Systems and published by Electronic Arts for MS-DOS. Set in the future, the player controls an amnesiac cyborg trying to escape the research facility in which they are being held prisoner.
+BioForge was developed as an interactive movie making use of motion capture, voice acting, and multiple camera angles.
+BioForge received mixed reviews. Work was started on a sequel for the game, which was then re-scoped as an expansion pack, and ultimately cancelled. BioForge was re-released on GOG.com in 2012.
+</doc>
+
+<doc id="36088146" title="Black ICE\White Noise">
+Black ICE\White Noise is an unreleased action-adventure video game that was in development and planned to be published by Atari Corporation on a scheduled December 1995 release date exclusively for the Atari Jaguar CD. It is influenced by the works of American-Canadian writer William Gibson such as Neuromancer and its plot is very reminiscent of The Matrix, which came three years later after the project was discontinued.The player would have followed the story of a group of three characters in a fictional United States city in the year 2042, as they performed multiple missions and tasks such as assassination, computer hacking, exploration, street fighting and other assignments. Originally conceived internally in 1994 as a mascot platform game by Sam Tramiel to represent Atari Corp., it later evolved into a more mature title involving a cyberpunk setting.After multiple delays and expenses, Atari Corp. cancelled the game in 1996, a decision seen by the video game press as an indication that the company was preparing to stop support for the Jaguar, especially as one of the other games for the system, Thea Realm Fighters, was also cancelled at the same time, with the game being close to completion. Although unreleased, several playable prototypes have been released and sold online by people such as B.J. West, one of the original producers of the game, and video game collector Clint Thompson, who got the rights to publish one of the playable prototypes.
+</doc>
+
+<doc id="31985739" title="Blacklight: Retribution">
+Blacklight: Retribution is a free-to-play first-person shooter video game developed and published by Hardsuit Labs (formerly Zombie Studios) for Microsoft Windows and PlayStation 4. It was initially published by Perfect World Entertainment on April 3, 2012, with a full Steam release on July 2. A PS4 version was released as a launch title in North America on November 15, 2013, followed by Europe on December 4.
+The sequel to Blacklight: Tango Down, the game is a cyberpunk-themed, arena style shooter that features a number of game modes, including a training mode and others commonly found in games of the same genre. Unique mechanics include weapon depots, which are used to acquire health, ammo, and special weapons, and the Hyper Reality Visor (HRV), which allows players to locate hazards through walls and other obstacles. Completing matches rewards the player with experience and GP, the latter of which can be used to buy additional weapons, armor, and cosmetic items, including skins and tags. Additional game modes were added after its release, including OnSlaught and Siege Mode.
+Retribution saw numerous additions and power shifts throughout its development. Following Zombie's closure in 2015, the remaining team regrouped as Hardsuit Labs, who oversaw development from that point forward. In 2017, Perfect World reverted publishing rights to Hardsuit Labs, who subsequently introduced several new changes, including the migration of US and EU servers.
+Blacklight: Retribution received positive reviews from critics, with some calling it an improvement over its predecessor. Praise was directed towards its graphics, mechanics, item balance, and deep customization, while criticism was directed towards its lack of innovation. The game proved popular, achieving one million players within a month of its release. The PC version was discontinued on March 11, 2019 following low user engagement, but remains active for PS4.
+
+
+</doc>
+
+<doc id="24161962" title="Blacklight: Tango Down">
+Blacklight: Tango Down is a dystopian cyberpunk-themed online multiplayer first-person shooter video game developed by Zombie Studios and published by Ignition Entertainment. The game was released on July 7, 2010 on Xbox 360 as a downloadable title, and was released on Microsoft Windows (with Games for Windows – Live requirement) on July 14, 2010. The game was also released in late 2010 for the PlayStation 3. The PC version is the one to receive all three patches, where as the Xbox 360 received only the first two patches, and the PlayStation 3 version received no patches, being at retail, launch day version.
+Zombie was planning to make Blacklight a multimedia franchise that would include the video game, a feature film, and a trilogy of comic books, however the company became defunct on January 8, 2015. The idea was conceptualized by Zombie executives which later pitched the idea to several film and comic book production companies. The film rights were immediately bought by Fox Atomic to create a film adaptation of the franchise. Fox Atomic's comic subsidiary, Fox Atomic Comics, was also to be creating the Blacklight comics, but after the closing of Fox Atomic, the trans-media rights have been purchased by Imagine Entertainment. The film, comic books, and game will not share the same storylines, but tell different stories in the Blacklight universe at different time periods. As of February 2019, there are no new updates for the film's status, other than that Jason Hall was the screenwriter for the project in 2010, and producer Richard Leibowitz. No film director or cast member has ever been publicly announced for the project, and the film currently languishes in development hell.
+</doc>
+
+<doc id="455898" title="Blade Runner (1997 video game)">
+Blade Runner is a point-and-click adventure game developed by Westwood Studios and published by Virgin Interactive for Microsoft Windows, released in November 1997. The game is not a direct adaptation of the 1982 Ridley Scott film Blade Runner but is instead a "sidequel", telling an original story, which runs parallel to the film's plot, occasionally intersecting with it.
+Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.
+Blade Runner was advertised as a "real-time 3D adventure game", since it was one of the first adventure games to use both 3D character rendering and a game world which progressed in real-time (as opposed to waiting for the player's actions). Unlike many games of its time, which used polygon-based renderers exploiting 3D accelerators, Westwood opted for their own software-based renderer using voxel technology.
+The game received generally positive reviews and was a commercial success, selling over one million units worldwide. It went on to win the Interactive Achievement Award for "PC Adventure Game of the Year" and was nominated for "Best Adventure Game" by PC Gamer. Virgin Interactive wanted Westwood to make a sequel, but it was thought the cost of production would make the game commercially unviable and the idea was scrapped. For many years, it remained trapped in legal and intellectual property entanglement, preventing a re-release on digital storefronts, until it finally arrived on GOG.com in December 2019. Nightdive Studios and Alcon Entertainment released an Enhanced Edition of the game on Microsoft Windows, Nintendo Switch, PlayStation 4, and Xbox One on June 23, 2022.
+</doc>
+
+<doc id="70709246" title="Blazing Chrome">
+Blazing Chrome is a run and gun video game developed by JoyMasher and published by The Arcade Crew. The game was released on July 11, 2019 for Windows, Nintendo Switch, PlayStation 4, and Xbox One, and on November 19, 2020 for Amazon Luna. The game is set in the post-apocalyptic future of 21XX, following a war that nearly kills off the human race. A robot army rules the world, and attempt to destroy the remnants of humanity. The game follows a resistance group who fights back against them. Players can control two different characters: Mavra, a human resistance soldier, and Doyle, a robot reprogrammed to fight for the resistance. 
+Blazing Chrome received generally favorable reviews from critics, being frequently compared to the Contra games.
+
+
+</doc>
+
+<doc id="2233745" title="Blood II: The Chosen">
+Blood II: The Chosen is a first-person shooter video game developed by Monolith Productions and distributed by GT Interactive. Unlike the first installment, Blood, which was set in 1928, it takes place in the year 2028, so in addition to conventional weapons and magical items also incorporates science fiction technology, mostly falling under the cyberpunk genre, and elements of dystopian fiction. Much like its predecessor, the game contains a significant amount of graphic violence and black humor.
+
+
+</doc>
+
+<doc id="5221289" title="BloodNet">
+BloodNet is a cyberpunk-themed role-playing video game video game developed and published by MicroProse for MS-DOS in 1993. An Amiga port was released in 1994 by Catfish and Teeny Weeny Games. An emulated version for Microsoft Windows, Mac OS X and Linux was released in 2014.
+</doc>
+
+<doc id="4100920" title="Bomberman: Act Zero">
+Bomberman: Act Zero is a maze video game developed by Hudson Soft for the Xbox 360 in 2006 and published by Hudson Soft in Japan and Konami worldwide. It is noteworthy for its departure from standard titles in the Bomberman series; it features more realistic graphics and a dark, dystopian future setting. The game was panned by critics and fans, and is considered one of the worst video games ever made.
+
+
+</doc>
+
+<doc id="6829692" title="Burn Cycle">
+Burn Cycle (stylized as Burn:Cycle) is a 1994 point-and-click adventure video game for the CD-i that incorporates full motion video and is set in a surrealist  cyberpunk world. The game follows Sol Cutter, a computer hacker and data thief, whose latest theft causes a virus named Burn Cycle to be implanted in his head. The game features a two-hour countdown timer to defuse the virus, with the player jumping back and forth between a fictional ingame virtual reality world known as the Televerse in order to destroy the Burn Cycle virus and solve the mystery of its creation.
+The game was re-released for personal computers in 1995. In 1996 Philips Interactive Media announced that all of their CD-i games would be ported to the Sega Saturn and Sony PlayStation during the third quarter of 1996, starting with Burn Cycle. However, these ports were never released.
+
+
+</doc>
+
+<doc id="46365176" title="Call of Duty: Black Ops III">
+Call of Duty: Black Ops III is a 2015 first-person shooter game developed by Treyarch and published by Activision. It is the twelfth entry in the Call of Duty series and the sequel to the 2012 video game Call of Duty: Black Ops II. It was released on PlayStation 4, Windows, and Xbox One on November 6, 2015. A feature-limited version developed by Beenox and Mercenary Technology that only supports multiplayer modes was released on PlayStation 3 and Xbox 360 and was also the final Call of Duty title released on those platforms.
+Black Ops III takes place in 2065, 40 years after the events of Black Ops II, amidst the transformative effects of climate change and the emergence of advanced technologies, including cybernetic enhancements. Similar to its predecessors, the story follows a group of black ops soldiers. The game's campaign is designed to support 4-player cooperative gameplay, allowing for bigger, more open level design and less corridor shooting. As the player character is cybernetically enhanced, players have access to various special activities. The game also features a standalone Zombies campaign mode, and a "Nightmares" mode which replaces all enemies as zombies.
+Announced in April 2015, the game is the first Call of Duty video game released after Activision ended its partnership with Microsoft Studios and instead partnered with Sony Computer Entertainment, which secured the timed exclusivity of the game's downloadable content. Upon release, the game received generally positive reviews from critics, praising the gameplay, Zombies mode, and amount of content. However, it was also criticized for its story and lack of innovation. The seventh-generation console versions in particular were singled-out for their lack of a campaign and numerous features, as well as them being online-only. It was a commercial success, with it becoming the top-selling retail game in the US in 2015, and one of the most successful titles released for the eighth generation of video game consoles.
+Following the years after its release, Black Ops III has gained a cult following and the online modes still remain active, with an average of over 10,000 players a month. A sequel, Call of Duty: Black Ops 4, was released on October 12, 2018.
+</doc>
+
+<doc id="3696321" title="Chaos Overlords">
+Chaos Overlords is a turn-based strategy computer game developed by Stick Man Games and published by New World Computing for Microsoft Windows and classic Mac OS in 1996. Chaos Overlords was re-released for Windows in downloadable format by GOG.com in May, 2013.
+</doc>
+
+<doc id="6418061" title="Chaser (video game)">
+Chaser is a first-person shooter action video game developed by Cauldron. The game is built on the CloakNT 3D engine. It was re-released on Steam and GOG.com in 2011.
+
+
+</doc>
+
+<doc id="67577019" title="Chinatown Detective Agency">
+Chinatown Detective Agency is a 2022 point-and-click adventure game developed by General Interactive Co. that was released on April 7, 2022 for Microsoft Windows, macOS, Nintendo Switch and Xbox One. The game launched a Kickstarter campaign in March 2020, with a demo being released in September. The game is set in a cyberpunk version of Singapore in 2037.
+</doc>
+
+<doc id="1835612" title="Circuit's Edge">
+Circuit's Edge is a video game developed by Westwood Associates and released by Infocom in 1990. It is based on George Alec Effinger's 1987 novel When Gravity Fails. The game is a hybrid interactive fiction/role-playing video game; it contains a window of text, a graphic window for depiction of the player's current location, and various menus and mini-windows for character statistics and other game functions.
+</doc>
+
+<doc id="70998481" title="Citizen Sleeper">
+Citizen Sleeper is a 2022 role-playing video game by Jump Over the Age and published by Fellow Traveller for macOS, Microsoft Windows, Nintendo Switch, Xbox One, and Xbox Series X/S on 5 May 2022. It was also released for PlayStation 4 and PlayStation 5 on 31 March 2023.
+</doc>
+
+<doc id="63974584" title="Cloudpunk">
+Cloudpunk is a  cyberpunk adventure game developed by German developer Ion Lands and published by Maple Whispering Limited for Microsoft Windows on April 23, 2020. It was released on Nintendo Switch, PlayStation 4 and Xbox One on October 15, 2020. A PlayStation 5 version published by Merge Games was
+released on August 19, 2022. An Xbox Series X/S version also released on October 16, 2023.
+</doc>
+
+<doc id="1379498" title="Compilation of Final Fantasy VII">
+The Compilation of Final Fantasy VII is a metaseries produced by Square Enix. A subseries stemming from the main Final Fantasy franchise, it is a collection of video games, animated features and short stories set in the world and continuity of Final Fantasy VII (1997). Officially announced in 2003 with the reveal of Final Fantasy VII: Advent Children, the series' core products are three video games and one film release. Alongside these are tie-in products and spin-offs including books, mobile games and an original video animation. Advent Children and the mobile title Before Crisis are a sequel and prequel to VII, respectively focusing on Cloud Strife, the original game's main protagonist, and covert operatives known as the Turks. Crisis Core follows Zack Fair, a minor character in VII, while Dirge of Cerberus, a sequel to Advent Children, follows Vincent Valentine, one of the original's optional characters.
+The series was conceived by Yoshinori Kitase, the original game's director, and Tetsuya Nomura, the main character designer. Nomura would become the main designer for each entry in the Compilation. Other returning staff include writer Kazushige Nojima, art director Yusuke Naora, and composer Nobuo Uematsu. The video games belong to different genres, with none of them being traditional role-playing games due to production pressures related to the genre. While the first title revealed was Advent Children, it ran into delays during post-production, so the first Compilation title to be released was the mobile game Before Crisis.
+Of the core titles, Before Crisis is the only one still unreleased in the west due to issues with overseas platform compatibility and staff changes. Reception of titles in the Compilation has been mixed, with Advent Children being praised for its visuals and criticized for its confusing nature. Before Crisis and Crisis Core have received praise, while Dirge of Cerberus garnered a mixed response. The presentation of the Compilation as a whole has met with a mixed response, and later staff linked it to the decline of the Final Fantasy series' prestige in the West. The Compilation inspired the creation of Fabula Nova Crystallis Final Fantasy, a similar subseries of linked video games.
+</doc>
+
+<doc id="73365815" title="Conglomerate 451">
+Conglomerate 451 is a dungeon crawler video game developed by RuneHeads and published in 2020 by 1C Entertainment.  Players are tasked with defeating the corrupt corporations that control a cyberpunk city.
+
+
+</doc>
+
+<doc id="61022027" title="Contra: Rogue Corps">
+Contra: Rogue Corps is a run and gun twin-stick shooter in the Contra series developed by Toylogic and published by Konami. It was released on September 24, 2019 for the Nintendo Switch, PlayStation 4, Windows, and Xbox One.Rogue Corps is set in the fictional Damned City two years after Contra III: The Alien Wars and Contra 4, featuring four playable characters and a wide degree of weapon customization. The game received generally mixed reviews upon release. It was criticized for its gameplay, graphics, and story, although praise fell toward its upgrade and customization system.
+</doc>
+
+<doc id="73378191" title="Cops 2170: The Power of Law">
+Cops 2170: The Power of Law (Russian: Власть законаis) is a turn-based tactics video game developed by MiST Land South and published by Russobit-M for Windows and in 2004.
+</doc>
+
+<doc id="65247484" title="Core Decay">
+Core Decay is an upcoming indie first-person action role-playing video game developed by Ivar Hill and Slipgate Ironworks, and published by 3D Realms.  Described as a "philosophical sci-fi adventure", the game takes inspiration from classic 1990s shooters Descent, Deus Ex and System Shock.
+</doc>
+
+<doc id="3598742" title="Corporation (video game)">
+Corporation (released as Cyber-Cop in North America) is a video game for Amiga, Atari ST and MS-DOS, later ported to the Mega Drive/Genesis. It was developed for Core Design by Dimension Creative Designs by Bill Allen with graphics and design by Kevin Bulmer.
+The PC and Sega versions were published by Virgin Games. Originally released for Amiga in 1990, it is one of the earliest 3D first-person shooter games, predating id Software's Wolfenstein 3D (1992). It was also the first of its kind to utilize dynamic lighting. Gameplay was very complex for its time, featuring role-playing, stealth and hacking elements, similar to the later System Shock and Deus Ex series of games.
+</doc>
+
+<doc id="3260099" title="Crash 'N Burn (1993 video game)">
+Crash 'N Burn is a futuristic racing/shooter video game developed by Crystal Dynamics and released for the 3DO in 1993. The game was the launch title for the system and was included as a pack-in game with Panasonic's original 3DO console.
+</doc>
+
+<doc id="71721607" title="The Creed (video game)">
+The Creed is a 1999 action-adventure game created by Australian developers Insomnia Entertainment and Dreamtime Interactive, and published by Electronic Arts and Midas Interactive. The game is a cyberpunk-themed action-adventure game set in a partial open world, allowing players to complete open-ended missions for the game's various factions. Upon a limited release in the Asia-Pacific, The Creed received praise from Australian publications for its atmosphere and environmental design.
+</doc>
+
+<doc id="1434733" title="Crime Cities">
+Crime Cities is a video game for Microsoft Windows. Developed and published by Techland and EON Digital Entertainment in 2000-2001 (and later by Big City Games and Gathering of Developers), Crime Cities is an action game that incorporates some limited elements of auto racing.
+</doc>
+
+<doc id="67266949" title="Cruelty Squad">
+Cruelty Squad is a 2021 tactical first-person shooter developed and published by Finnish indie studio Consumer Softproducts, managed by artist Ville Kallio, through the Steam distribution platform. In the game, the player takes on the role of a biologically-augmented assassin employed by the titular wetwork security company, tasked with performing black operations for its host conglomerate. The game is notable for its surreal, "sensorally aggressive" low-poly aesthetic, inspired by the likes of mid-to-late 1990s low-poly 3D games such as LSD: Dream Emulator and Super Mario 64.Cruelty Squad is described by the developer as "an immersive power fantasy simulator with tactical stealth elements", and is often compared to late 1990s and early 2000s shooters such as Tom Clancy's Rainbow Six, Deus Ex, Perfect Dark, and Hitman: Codename 47. The game's theming has been described as anti-capitalist, anti-corporate, and a satire on the gig economy.The game was released in early access on Steam on 4 January 2021, and was fully released on Steam on 15 June 2021. Reviews were largely positive, with many reviewers appreciating the game's unique presentation, design, and combination of different mechanics and themes.
+
+
+</doc>
+
+<doc id="25412420" title="Cy Girls">
+CY GIRLS (also known as CY Girls or Cy Girls, and as COOL GIRL in Japan) is an action figure series by Takara Tomy and Blue Box Toys under the brand bbi collectible (an official bootleg), featuring an elite unit of female crimefighters, combining the elements of both a doll and an action figure. A Cy Girls video game adaptation (known as Cool Girl in Japan) was developed and published by Konami for the PlayStation 2 in 2004.
+
+
+</doc>
+
+<doc id="6234572" title="Cyber-Lip">
+Cyber-Lip is a run and gun video game released in arcades by SNK in 1990 for the Neo Geo MVS. It was released for the Neo Geo AES home console in 1991.
+</doc>
+
+<doc id="65405081" title="Cyberbykes: Shadow Racer VR">
+Cyberbykes: Shadow Racer VR is a 1995 motorcycle racing game developed by Artificial Software and published by GameTek.
+
+
+</doc>
+
+<doc id="2185121" title="Cyberia (video game)">
+Cyberia is a science fiction action adventure video game released for MS-DOS in January 1994, and released two years later on the PlayStation, Sega Saturn, 3DO and FM Towns consoles. A sequel, Cyberia 2: Resurrection, was released in 1995 for both DOS and Windows 9x formats.
+
+
+</doc>
+
+<doc id="9398188" title="CyberJudas">
+CyberJudas is a presidential simulation video game for MS-DOS-compatible computers, and is the sequel to Shadow President. CyberJudas contains many of the same cyberpunk/dark science fiction elements of the original game, but adds themes of espionage and treason.
+</doc>
+
+<doc id="779519" title="CyberMage: Darklight Awakening">
+CyberMage: Darklight Awakening is a cyberpunk first-person shooter game with role-playing elements designed by David W. Bradley. It was created by Origin and released by Electronic Arts in 1995. The game is characterized by a dark, heavy atmosphere.
+</doc>
+
+<doc id="36691288" title="Cyberpunk 2077">
+Cyberpunk 2077 is a 2020 action role-playing video game developed by CD Projekt Red and published by CD Projekt, based on video game designer Mike Pondsmith's tabletop game series. Set in a dystopian cyberpunk universe, the player assumes the role of "V" (played by Gavin Drea/Cherami Leigh), a mercenary in the fictional Californian city known as "Night City", where they deal with the fallout from a heist gone wrong that results in an experimental cybernetic "bio-chip" containing an engram of the legendary rock star and terrorist Johnny Silverhand (played by Keanu Reeves) threatening to slowly overwrite V's mind; as the story progresses V and Johnny must work together to find a way to be separated and save V's life.
+The game's development began following the release of The Witcher 3: Wild Hunt – Blood and Wine (2016). The game was developed by a team of around 500 people using the REDengine 4 game engine. CD Projekt launched a new division in Wrocław, Poland, and partnered with Digital Scapes, Nvidia, QLOC, and Jali Research to aid the production. Cyberpunk creator Mike Pondsmith was a consultant, and actor Keanu Reeves had a starring role. The original score was led by Marcin Przybyłowicz, and featured the contributions of several licensed artists. After years of anticipation, CD Projekt released Cyberpunk 2077 for PlayStation 4, Stadia, Windows, and Xbox One on 10 December 2020, followed by PlayStation 5 and Xbox Series X/S on 15 February 2022. 
+Cyberpunk 2077 received praise from critics for its narrative, setting, and graphics. However, some of its gameplay elements received mixed responses while its themes and representation of transgender characters received some criticism. It was also widely criticized for bugs, particularly in the console versions which suffered from performance problems. Sony removed it from the PlayStation Store from December 2020 to June 2021 while CD Projekt rectified some of the problems. CD Projekt became subject to investigations and class-action lawsuits for their perceived attempts at downplaying the severity of the technical problems before release; these were ultimately cleared with a settlement of US$1.85 million. By October 2023, the game had sold over 25 million units. An expansion, Phantom Liberty, released for PlayStation 5, Windows, and Xbox Series X/S on 26 September 2023, which sold 5 million units in 2023. Its total cost to develop and market (including updates and DLC) is reportedly over $436 million, making it one of the most expensive video games to develop. A sequel, codenamed "Project Orion", was announced in October 2022.
+
+
+</doc>
+
+<doc id="74014598" title="Cyberpunk 2077: Phantom Liberty">
+Cyberpunk 2077: Phantom Liberty is an action role-playing video game developed by CD Projekt RED. An expansion pack for Cyberpunk 2077 (2020), it introduces a new district and a new quest line. Set in a dystopian cyberpunk universe, the player assumes the role of "V", a mercenary who must rescue the President of the New United States whose aircraft has crashed in the lawless district of Dogtown. It was released for Windows PC, PlayStation 5, Xbox Series X and Series S in September 2023. The expansion received critical acclaim from critics, and it has sold more than 5 million copies since release.
+
+
+</doc>
+
+<doc id="38640156" title="Cypher (video game)">
+Cypher: Cyberpunk Text Adventure is a cyberpunk interactive fiction video game written by the Cabrera Brothers and released on August 31, 2012. It includes music, sound effects and limited graphical elements. The game was released for Microsoft Windows and OS X.
+</doc>
+
+<doc id="36721803" title="Cytus">
+Cytus is a collection of rhythm games developed by Taiwanese game developer Rayark. The original Cytus rhythm game was first released on the iOS platform on 12 January 2012. The game was later released on Android on 7 August 2012. A port for PlayStation Vita and PlayStation Mobile, titled Cytus: Lambda, was released on 26 June 2013. An arcade version titled Cytus: Omega in collaboration with Capcom was revealed at JAEPO in February 2015 and was set for location testing in July 2015, but was ultimately canceled on 30 March 2018. A sequel game, Cytus II, was released on 18 January 2018, for iOS and March 2018 for Android. A remake of Cytus Alpha (stylized as Cytus α) was also released for the Nintendo Switch on 25 April 2019.
+
+
+</doc>
+
+<doc id="2717022" title="D/Generation">
+D/Generation is an action-adventure game with puzzle elements developed for the 8-bit Apple II during the late 1980s, but instead published and released for MS-DOS, Amiga, and Atari ST by Mindscape in 1991. The game takes place in a slightly cyberpunk futuristic setting in 2021.
+It was ported to the Amiga CD32 in 1993, allowing use of the 6-button CD32 gamepad.
+A remake of the game with improved graphics called D/Generation HD was released for Microsoft Windows by West Coast Software on October 23, 2015 and for the Nintendo Switch on March 27, 2018 in North America and on April 3, 2018 in Europe.
+</doc>
+
+<doc id="211077" title="Daikatana">
+Daikatana is a first-person shooter game developed by Ion Storm. It was published by Eidos Interactive for Windows and Kemco for Nintendo 64. Players control a swordsmaster who travels through various time periods using the eponymous Daikatana, a powerful sword tied to the fate of the world.
+Daikatana was directed by Ion Storm co-founder John Romero, a co-developer of the influential first-person shooters Wolfenstein 3D (1992), Doom (1993), and Quake (1996). Announced in 1997 as Romero's first game after leaving id Software, it underwent a troubled development that saw a change in its engine, release date delays, and the departure of several staff members. The protracted development, combined with promotion that focused on Romero's involvement over the game itself, resulted in negative publicity for Daikatana prior to its release.
+Released in May 2000, Daikatana received generally negative reviews for its outdated graphics, gameplay, repetitive sound effects, and poor artificial intelligence. It also sold only 40,351 copies, becoming one of the biggest major commercial failures of the video game industry. Due to the negative response, a separate version for the Game Boy Color did not receive a North American release; it was released in Europe and Japan to a more positive reception.
+
+
+</doc>
+
+<doc id="8848084" title="Delta V (video game)">
+Delta V (pronounced as Delta Vee) is a first-person science fiction video game for MS-DOS, developed by Bethesda Softworks and released in 1994. It is a spiritual predecessor to XCar: Experimental Racing .
+</doc>
+
+<doc id="39449099" title="Denjin Makai">
+Denjinmakai (電神魔傀), or Denjin Makai, is a 1994 side-scrolling beat 'em up developed by Winkysoft and published by Banpresto that was originally released as a coin-operated arcade game. It was later ported to the Super Famicom (known as the Super Nintendo Entertainment System in other countries) under the title Ghost Chaser Densei (ゴーストチェイサー電精). The Super Famicom release is Japan-only. A sequel, Guardians, was released in 1995.
+
+
+</doc>
+
+<doc id="26581569" title="Deus Ex">
+Deus Ex is a series of role-playing video games, set during the mid 21st century. Focusing on the conflict between secretive factions who wish to control the world by proxy, and the effects of transhumanistic attitudes and technologies in a dystopian near-future setting, the series also includes references to real-world conspiracy theories, historical mythologies and philosophies, and provides a commentary on capitalist values and division in society. The first two games in the series were developed by Ion Storm, and subsequent entries were developed by Eidos-Montréal, following Ion Storm's closure. The Ion Storm games were published by Eidos Interactive, and all Eidos-Montréal media was published by Square Enix until 2022, when ownership was sold to Embracer Group.
+The series consists of six games: Deus Ex (2000), Deus Ex: Invisible War (2003), Deus Ex: Human Revolution (2011), Deus Ex: The Fall (2013),  Deus Ex Go (2016) and Deus Ex: Mankind Divided (2016). The series has been generally well-received by critics and sold over 14 million units worldwide.
+
+
+</doc>
+
+<doc id="8484" title="Deus Ex (video game)">
+Deus Ex is a 2000 action role-playing game developed by Ion Storm and published by Eidos Interactive. Set in a cyberpunk-themed dystopian world in the year 2052, the game follows JC Denton, an agent of the fictional agency United Nations Anti-Terrorist Coalition (UNATCO), who is given superhuman abilities by nanotechnology, as he sets out to combat hostile forces in a world ravaged by inequality and a deadly plague. His missions entangle him in a conspiracy that brings him into conflict with the Triads, Majestic 12, and the Illuminati.
+Deus Ex's gameplay combines elements of the first-person shooter with stealth elements, adventure, and role-playing genres, allowing for its tasks and missions to be completed in a variety of ways, which in turn lead to differing outcomes. Presented from the first-person perspective, the player can customize Denton's various abilities such as weapon skills or lockpicking, increasing his effectiveness in these areas; this opens up different avenues of exploration and methods of interacting with or manipulating other characters. The player can complete side missions away from the primary storyline by moving freely around the available areas, which can reward the player with experience points to upgrade abilities and alternative ways to tackle main missions. Powered by the Unreal Engine, the game was released for Microsoft Windows in June 2000, with a Mac OS port following the next month. A modified version of the game was released for the PlayStation 2 in 2002 as Deus Ex: The Conspiracy. In the years following its release, Deus Ex has received additional improvements and content from its fan community.
+The game received critical acclaim, including being named "Best PC Game of All Time" in PC Gamer's "Top 100 PC Games" in 2011 and a poll carried out by the UK gaming magazine PC Zone. Deus Ex was praised for its ambitious plot, the freedom of its immersive gameplay, world-building and diversity of character customization and choices, but its graphics and voice acting polarized critics. It received several Game of the Year awards, drawing praise for its pioneering designs in player choice and multiple narrative paths. Deus Ex is regarded as one of the best video games of all time. It has sold more than 1 million copies, as of April 23, 2009. The game led to a series, which includes the sequel Deus Ex: Invisible War (2003), and three prequels: Deus Ex: Human Revolution (2011), Deus Ex: The Fall (2013), and Deus Ex: Mankind Divided (2016).
+</doc>
+
+<doc id="11283085" title="Deus Ex: Human Revolution">
+Deus Ex: Human Revolution is an action role-playing game developed by Eidos-Montréal and published by Square Enix's European branch for PlayStation 3, Windows, and Xbox 360 in August 2011. A version for OS X was released in April 2012. The game is a prequel to the original Deus Ex (2000) and the third installment in the Deus Ex series. The gameplay combines first-person shooter, stealth, and role-playing elements. It features exploration and combat in environments connected to multiple city-based hubs, in addition to quests that grant experience and allow customization of the main character's abilities with items called Praxis Kits. Conversations between characters feature a variety of responses, with options in conversations and at crucial story points affecting how some events play out.
+Set in the year 2027, players control Adam Jensen, a security officer for Sarif Industries, a company which develops controversial artificial organs dubbed "augmentations". After an attack on Sarif, Jensen undergoes extensive augmentation and investigates the shadowy organization behind the attack. The story explores themes of transhumanism and the growing power of megacorporations and their impact on social class. It also uses the series' cyberpunk setting and conspiracy theory motif.
+Development of Human Revolution began in 2007 with a small team within the fledgling Eidos-Montréal studio after failed attempts to create a sequel at original developer Ion Storm following Deus Ex: Invisible War (2003). The two key influences were the myth of Icarus, a thematic element carried over from Deus Ex, and the artwork and ideas of the Renaissance, which influenced the story, graphics, and music while combining with the series' typical cyberpunk elements. The open-ended gameplay was tricky for the team to achieve; the boss battles were outsourced to another developer due to time constraints. The music, composed by Michael McCann, focused on ambience and three-layered compositions over character themes and overt melodies. Human Revolution was announced in 2007, soon after its beginning development. Its title and release window were announced in 2010. After release, a downloadable episode, The Missing Link, was developed, featuring gameplay improvements. A director's cut, featuring further improvements and additional content, was released in October 2013 for the original platforms and Wii U.
+Human Revolution received critical acclaim for its player-driven plot, gameplay, and freedom of choice in the story and character customization. The major criticisms went to its boss fights and technical problems. The director's cut was praised for its revamped gameplay. By November 2011, the original version had sold 2.18 million units. The game was followed up with a spin-off, The Fall in 2013, and a direct sequel, Mankind Divided in 2016.
+</doc>
+
+<doc id="51230160" title="Deus Ex: Human Revolution – The Missing Link">
+Deus Ex: Human Revolution – The Missing Link is a standalone downloadable episode for the action role-playing stealth video game Deus Ex: Human Revolution. Developed by Eidos Montréal and published by Square Enix, it was released digitally worldwide in October 2011 for Microsoft Windows, PlayStation 3, Xbox 360. Later releases of the main game made The Missing Link available on OS X and Wii U.
+The Missing Link is set during a narrative gap late in the events of Human Revolution. While en route to a secret research facility hidden inside a stasis pod, protagonist Adam Jensen is discovered, imprisoned and tortured by officers of private security company Belltower Associates. Escaping, he must first recover his equipment, then discover the secrets of the Belltower facility, aided by a mysterious hacker and sympathetic figures within Belltower ranks. Gameplay is carried over from Human Revolution: displayed primarily from a first-person perspective with both stealth and action-based paths of progression through environments.
+Initially unplanned, The Missing Link was developed by Human Revolution's core staff, including producer David Anfossi, director Jean-François Dugas, writer Mary DeMarle, and composer Michael McCann. The story was designed as a standalone experience, partially due to the technical and aesthetic improvements the team had made. A boss battle was designed to allow for multiple solutions, in contrast to the limited action-based approaches of the main game's boss fights. Reception was generally positive: despite some mixed opinions on the story, praise was given to the improved visuals and gameplay.
+</doc>
+
+<doc id="360793" title="Deus Ex: Invisible War">
+Deus Ex: Invisible War is a 2003 action role-playing video game developed by Ion Storm and published by Eidos Interactive for Microsoft Windows and Xbox. It is the second game in the Deus Ex series. The gameplay—combining first-person shooter, stealth, and role-playing elements—features exploration and combat in environments connected to multiple city-based hubs, in addition to quests that can be completed in a variety of ways and flexible character customization. Conversations between characters feature a variety of responses, with options in conversations at crucial story points affecting how some events play out.
+Invisible War takes place twenty years after Deus Ex. The game follows a scenario whereby the first game's events led to a period of war and economic depression dubbed the "Collapse", which resulted in several factions attaining power and influence across the world. The player character, Alex D, is evacuated from Chicago to Seattle following a terrorist attack, soon becoming embroiled in a network of plots as the world's factions fight for control of the world. In addition to the series' recurring cyberpunk setting and conspiracy theory motif, the story focuses on the theme of terrorism.
+Development of Invisible War began following the success of Deus Ex. The aim was to create a more accessible version of the original game's systems while preserving its essentials. Original designer Harvey Smith directed the game, while Alexander Brandon and Sheldon Pacotti returned respectively as composer and scenario writer. Additional music and voice work was provided by the rock band Kidneythieves. Due to being developed for PC and Xbox, the game's environments needed to be designed with the console's hardware limitations in mind. In later interviews, members of the team have faulted their decisions for the title.
+The game was acclaimed for its graphics, narrative and the freedom of choice in both gameplay and story. Criticism was directed towards enemy artificial intelligence, some of the design choices and problems with the PC port. The game has sold over one million copies worldwide as of 2011. Later opinions from both journalists and the game's staff have been polarized, with several websites calling Invisible War the weakest entry in the Deus Ex series. After several unsuccessful efforts to create a third Deus Ex game prior to Ion Storm's 2005 closure, a prequel to the first game, Deus Ex: Human Revolution, was developed by Eidos Montréal and released in 2011.
+</doc>
+
+<doc id="46348654" title="Deus Ex: Mankind Divided">
+Deus Ex: Mankind Divided is a 2016 action role-playing game developed by Eidos-Montréal and published by Square Enix for PlayStation 4, Windows, and Xbox One in August 2016. Versions for Linux and macOS systems were released in 2016 and 2017, respectively. The game is the sequel to Deus Ex: Human Revolution and the fifth installment in the Deus Ex series. The gameplay combines first-person shooter, stealth and role-playing elements. It features exploration and combat in environments connected to the main hub of Prague and quests which grant experience and allow customization of the main character's abilities with Praxis Kits. Conversations between characters have a variety of responses, with options in conversations and at crucial story points affecting how events play out. Players can complete Breach, a cyberspace-set challenge mode, in addition to the main campaign. Breach was later released as a free, standalone product.
+Set two years after Human Revolution in 2029, the world is divided between normal humans and those with advanced, controversial artificial organs dubbed "augmentations". After a violent event known as the Aug Incident, augmented people have been segregated; this prompts heated debate and an era of "mechanical apartheid". Main protagonist Adam Jensen, equipped with advanced new augmentations after Human Revolution, is a double agent for the hacker group Juggernaut Collective to expose the Illuminati, which is orchestrating events behind the scenes. The story explores themes of transhumanism and discrimination, using the series' recurring cyberpunk setting and conspiracy theory motif.
+Production of Mankind Divided began after completion of the Human Revolution expansion The Missing Link. Eidos-Montréal wanted to improve its gameplay and narrative, and address criticism from fans and reviewers of Human Revolution. The gameplay and graphics engine were rebuilt from scratch for next-generation hardware. A greater focus on realism and the story's darker themes resulted in a subdued color range compared to the previous game. Human Revolution composer Michael McCann returned to write the score with newcomers Sascha Dikiciyan and Ed Harrison.
+Mankind Divided was announced in 2015, after a lengthy promotional campaign. Subsequent marketing slogans were criticized by journalists, and a divisive tier-based preorder campaign was cancelled due to player backlash. Post-launch, story-based downloadable content was released in 2016. The game received positive reviews from critics, who praised its narrative, graphics and gameplay. Criticism focused on the brevity of its campaign and the handling of its themes. Although the game initially placed highly on sales charts, it was rumored to be a commercial disappointment and it was speculated that the series would be put on hold.
+</doc>
+
+<doc id="39595639" title="Deus Ex: The Fall">
+Deus Ex: The Fall is an action role-playing video game developed by N-Fusion Interactive under the supervision of Eidos-Montréal. A spin-off of the Deus Ex series, the game was published by Square Enix's European branch for iOS in 2013. Android and Windows versions released in 2014. The gameplay—combining first-person shooter, stealth and role-playing elements—features exploration and combat in Panama City and quests which grant experience and allow customization of the main character's abilities.
+The Fall is set in a near-future cyberpunk Earth where the covert Illuminati seek to exert control over the world as a technological revolution prompts the development of advanced artificial organs dubbed "Augmentations". Set after the spin-off novel Deus Ex: Icarus Effect but during the events of Deus Ex: Human Revolution, the story follows fugitives Ben Saxon and Anna Kelso as they hide from the forces of the Illuminati. While intended as the first in an episodic narrative, the story remains incomplete.
+Development of The Fall started in 2012 and lasted twelve months. The team, between twelve and fifteen people, also consulted staff from Human Revolution to ensure consistency between the two products. The team used assets from Human Revolution as references to create the game's environments, and Michael McCann composed new tracks for the game. Reception of the mobile version was mixed, but many critics praised it as a serviceable attempt at translating Deus Ex into the mobile format. The Windows version saw negative responses from critics due to technical and control issues.
+</doc>
+
+<doc id="19170714" title="Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon">
+Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon is an action role-playing game developed and published by Atlus for the PlayStation 2. The game is the fourth in the Devil Summoner series, which is a part of the larger Megami Tensei franchise, and serves as the direct sequel to Devil Summoner: Raidou Kuzunoha vs. the Soulless Army. It was released in Japan in October 2008, and in North America in May 2009.
+</doc>
+
+<doc id="7228288" title="Devil Summoner: Raidou Kuzunoha vs. the Soulless Army">
+Devil Summoner: Raidou Kuzunoha vs. the Soulless Army is an action role-playing game developed by Atlus for the PlayStation 2. The game is the third in the Devil Summoner series, which is a part of the larger Megami Tensei franchise. It was published by Atlus in Japan and North America in 2006, and in Europe the following year.
+The game differs from the two previous Devil Summoner titles in having real-time battles and a named protagonist and is first in the entire franchise to be set in the past – specifically the year 1931, the fictional twentieth year of the Taishō period of Japan, wherein it deals with historical figures such as Grigori Rasputin in addition to the Shin Megami Tensei series' traditional use of real-world mythological figures. Though somewhat criticized for being the shortest of recent games in the franchise, it generally received favorable reception. In April 2014, the game was ported to the PlayStation 3 on the PlayStation Store. A sequel, Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon, was released in 2008.
+</doc>
+
+<doc id="3596594" title="Devil Summoner: Soul Hackers">
+Devil Summoner: Soul Hackers is a 1997 role-playing video game developed by Atlus. The game is the second installment in the Devil Summoner series, itself a part of the larger Megami Tensei franchise. Originally published by Atlus for the Sega Saturn, it was later ported to the PlayStation in 1999 and Nintendo 3DS in 2012.
+Soul Hackers takes place in the fictional Amami City, a technologically-advanced Japanese metropolis. The main protagonist, a member of a hacker group called the Spookies, gains access to the closed beta for Paradigm X, an online game designed to connect the citizens of Amami. While in there, the protagonist encounters supernatural forces, then must work with the Spookies to investigate attacks by demons across the city. Aiding him is Nemissa, a demon who possesses the body of his friend Hitomi Tono.
+Development of Soul Hackers began in 1996, after the success of the original Devil Summoner. Original producer Kouji Okada and character designer Kazuma Kaneko returned to their respective roles. The first two versions of Soul Hackers were never released overseas, but the Nintendo 3DS version was localized into English. The game has generally garnered a positive reception, although some reviewers criticized the visuals and music. A sequel titled Soul Hackers 2 was released in August 2022.
+
+
+</doc>
+
+<doc id="41230618" title="Dex (video game)">
+Dex is a side-scrolling action role-playing game developed and published by Dreadlocks Ltd. The game was crowdfunded on Kickstarter, and was released in 2015.
+
+
+</doc>
+
+<doc id="1640130" title="Digital Devil Story: Megami Tensei">
+Digital Devil Story: Megami Tensei refers to two distinct role-playing video games based on a trilogy of science fantasy novels by Japanese author Aya Nishitani. One version was developed by Atlus and published by Namco in 1987 for the Famicom—Atlus would go on to create further games in the Megami Tensei franchise. A separate version for personal computers was developed and published by Telenet Japan with assistance from Atlus during the same year.
+The story sees Japanese high school students Akemi Nakajima and Yumiko Shirasagi combat the forces of Lucifer, unleashed by a demon summoning program created by Nakajima. The gameplay features first-person dungeon crawling and turn-based battles or negotiation with demons in the Famicom version, and a journey through a hostile labyrinth as Nakajima featuring real-time combat in the Telenet version.
+Development on both versions of the video game began as part of a multimedia expansion of Nishitani's book series. Nishitani was deeply involved with the design and scenario. The gameplay mechanics in Atlus' role-playing version of the game were based on the Wizardry series, but with an added demon negotiation system considered revolutionary for the time. Atlus and Telenet Japan worked on their projects simultaneously, playing against genre expectations for their respective platforms. The Famicom version proved the more popular with both critics and players, leading to the development of the 1990 Famicom sequel Digital Devil Story: Megami Tensei II. An enhanced port of both games for the Super Famicom was released in 1995.
+</doc>
+
+<doc id="1640417" title="Digital Devil Story: Megami Tensei II">
+Digital Devil Story: Megami Tensei II is a role-playing video game developed by Atlus and published by Namco for the Famicom. An enhanced Super Famicom port was developed by Opera House and released by Atlus in 1995. The second entry in the Megami Tensei series, the gameplay features the unnamed protagonist exploring a post-apocalyptic wasteland, battling and recruiting demons as they are pushed into taking part in a conflict between the demonic forces of Lucifer and the army of the One True God.
+Development began in 1987 following the release of Digital Devil Story: Megami Tensei. While the first game was an adaptation of a novel trilogy, Megami Tensei II has an original story that examines preconceptions surrounding the portrayal of order and chaos. Kouji Okada and Tsukasa Masuko returned as director and composer, while artwork was designed by Kazuma Kaneko. The game received critical acclaim upon release, was partially remade in the 1992 Super Famicom title Shin Megami Tensei, and is regarded as an influential entry in the series.
+
+
+</doc>
+
+<doc id="69584862" title="Dohna Dohna: Let's Do Bad Things Together">
+Dohna Dohna: Let's Do Bad Things Together (Japanese: ドーナドーナ いっしょにわるいことをしよう, Hepburn: Dōnadōna: Issho ni Warui Koto o Shiyō) is a 2020 erotic role-playing video game developed by Alicesoft. The game deals with serious subjects such as sexual violence and prostitution, and has been praised for its characterization, themes, and dystopian setting, as well as its visual design.The original Japanese version released on November 27, 2020.  A Simplified Chinese version was released on March 26, 2021, and an English version by Shiravune followed on October 29, 2021.  In Japan, Dohna Dohna went on to win industry awards.
+</doc>
+
+<doc id="9796250" title="Dreamfall Chapters">
+Dreamfall Chapters is an episodic 3D adventure game with emphasis on character interaction, exploration of the game world, and puzzle solving. It is a sequel to the adventure games The Longest Journey and Dreamfall: The Longest Journey. The game was released for PC in five episodes between 21 October 2014 and 17 June 2016. The updated "Final Cut" version was released on physical media for PlayStation 4 and Xbox One on 5 May 2017, and the Microsoft Windows, OS X, and Linux versions on 21 July 2017.
+The Longest Journey series is set in two parallel universes: Stark, a cyberpunk future Earth, and Arcadia, its magical fantasy counterpart. Chapters takes place in 2220 CE and continues the story of Dreamfall, whose protagonist Zoë Castillo had uncovered a criminal conspiracy that aimed to enslave both Stark and Arcadia by stealing their residents' dreams. Although Zoë managed to disrupt the conspirators' plans, she was betrayed and left in a coma at the end of Dreamfall, and has to find her purpose in life again in Chapters. The writers described the narrative theme of the game as "chapters of life".
+Dreamfall Chapters was developed by Red Thread Games, an independent studio founded by Ragnar Tørnquist, who wrote and directed the previous two games. Funcom, the owners of The Longest Journey IP, had licensed the rights to develop the next installment out to Tørnquist's studio. Its development was crowd-funded by a Kickstarter campaign that raised over $1.5 million, with additional funding provided by the Norwegian Film Institute. The publisher Deep Silver released the game on consoles in 2017 to mixed reviews.
+</doc>
+
+<doc id="727748" title="Dreamfall: The Longest Journey">
+Dreamfall: The Longest Journey (Bokmål: Drømmefall: Den Lengste Reisen) is an adventure video game developed by Funcom for Microsoft Windows and Xbox platforms in April 2006. On 1 March 2007, a sequel entitled Dreamfall Chapters was announced, and Funcom reportedly considered the idea of a massively multiplayer online game set in The Longest Journey universe.The game is the sequel to Funcom's The Longest Journey, released in 1999, and takes place ten years after the events of the first game. The story focuses on three characters, Zoë Castillo, April Ryan, and Kian Alvane, who live in two parallel worlds: technologically advanced Stark and magical Arcadia. April was the protagonist of the first game, while the other two are new characters. The main storyline follows Zoë, a Stark resident whose investigation of her ex-boyfriend's disappearance and other mysterious occurrences lead her to April. Meanwhile in Arcadia, April battles the villainous Empire of Azadi while Kian, an elite Azadi soldier, is sent to assassinate her. The game features returning characters from its predecessor, such as Brian Westhouse and Gordon Halloway, but playing The Longest Journey is not a prerequisite to understanding its plot.
+</doc>
+
+<doc id="739817" title="DreamWeb">
+Dreamweb is an MS-DOS and Amiga point-and-click cyberpunk top-down adventure game released in 1994, developed by Creative Reality and published by Empire Interactive Entertainment. The game features mature themes and a dark plot filled with violence and brief full frontal nudity; a rarity for games at the time.
+Dreamweb was re-released as freeware in October 2012.
+</doc>
+
+<doc id="13624264" title="Drowned God">
+Drowned God: Conspiracy of the Ages is a 1996 science fiction adventure game developed by Epic Multimedia Group and published by Inscape. The game propounds the conspiracy theory that all of human history is a lie and that the human race's development and evolution were aided by extraterrestrials. The player attempts to uncover the truth through the course of the game by traveling to a variety of different worlds, interacting with historical and fictional characters, and solving puzzles.
+Drowned God is based on a forged manuscript written by Harry Horse in 1983, purported to have been written by 19th-century poet Richard Henry Horne, who shares Horse's birth name. After facing legal trouble and fines when he attempted to sell the text, Horse shelved it until playing Myst and The 7th Guest in the mid-1990s, whereupon he decided a first-person adventure game would be the best way to tell the manuscript's story.
+Producer Algy Williams hired a team of multimedia artists and programmers to help Horse develop Drowned God. Upon its release, the game sold well, but it quickly faded in popularity due to bugs and a lack of patches. Drowned God's concept and visuals were widely praised, while its gameplay, audio, and puzzles received more varied responses. A planned sequel never came to fruition.
+</doc>
+
+<doc id="66728072" title="Dry Drowning">
+Dry Drowning is a cyberpunk mystery visual novel developed by Studio V and published by VLG Publishing and WhisperGames for Microsoft Windows on August 2, 2019. It was released on the Nintendo Switch on February 22, 2021.
+</doc>
+
+<doc id="58949194" title="Due Process (video game)">
+Due Process is an online multiplayer tactical first-person shooter video game developed by American studio Giant Enemy Crab, and published by Annapurna Interactive released into early access on November 4, 2020. The game's core revolves around teamwork and communication, allowing players to draw a "playbook" during the planning phase onto the hand-curated, procedurally generated maps. The visuals are inspired by '90s arcade light gun games, such as Time Crisis, and it is set in a cyberpunk dystopia.Due Process is currently only available for Microsoft Windows. Closed alpha testing started in 2019.
+</doc>
+
+<doc id="2655509" title="Dystopia (video game)">
+Dystopia is a team-based, objective-driven, first-person shooter video game, developed as a total conversion modification on the Valve's proprietary Source engine. It is based on the cyberpunk literary and aesthetic genre; it is somewhat based on popular role-playing game Shadowrun, created by an amateur development team and released to the public for free. Its first playable build was released on September 9, 2005, after a year of planning and nine months of development. The first full version of Dystopia, Version 1, was released after 3 years of development on February 25, 2007.
+Dystopia has been received positively from critics, with praise being given for its graphical quality, unique meatspace/cyberspace gameplay, overall polish and its representation of cyberspace. Criticisms of Dystopia were aimed at how inaccessible the game is at first, and its learning curve. The game has won several awards, including Best Mod for Half-Life 2 from the Independent Games Festival's Modding Competition.
+
+
+</doc>
+
+<doc id="30882288" title="E.Y.E.: Divine Cybermancy">
+E.Y.E: Divine Cybermancy is an action role-playing first-person shooter video game developed by Streum On Studio, and built using Valve's Source engine. It is a cyberpunk themed game based on an unreleased, private table-top role-playing game, A.V.A., developed by Streum On Studio in 1998. Streum-On-Studio have stated that it is "unlikely" that "A.V.A." will be sold publicly in the future. The game spent about two years in development before being released on Steam.
+
+
+</doc>
+
+<doc id="4030624" title="Electrocop">
+Electrocop is a 1989 action video game developed by Epyx and published by Atari Corporation in North America and Europe for the Atari Lynx. It was released in Japan on November 25 of the same year, where it was distributed by Mumin Corporation. One of the first games written for the platform, it was one of the launch titles that were released along with the system in North America.
+Set on a futuristic interpretation of Washington, D.C. in the year 2069, players assume the role of the titular robot created by MegaCorp who must infiltrate into the Steel Complex fortress in an attempt of rescuing the President of the United States' first daughter under a time limit from The Criminal Brain, who kidnapped her for a ransom and threats to kill her if his demand is not met. Conceived by Greg Omi, who also developed the Lynx hardware alongside Chip's Challenge creator Chuck Sommerville, Electrocop began its development prior to the existence of any functional Lynx hardware.
+Electrocop has received mixed reception from critics, who unanimously praised the pseudo-3D visuals and sound department, but some criticized the repetitive nature of the gameplay and convoluted graphics. A version of the game was developed and completed by ICC for the Atari 7800 but never released.
+</doc>
+
+<doc id="1157211" title="Extase">
+Extase is a computer game developed by Cryo and published by Virgin Mastertronic.
+</doc>
+
+<doc id="39058787" title="Far Cry 3: Blood Dragon">
+Far Cry 3: Blood Dragon is a 2013 first-person shooter game developed by Ubisoft Montreal and published by Ubisoft. It is a standalone expansion to Far Cry 3 and the eighth overall installment in the Far Cry franchise. Blood Dragon is a retro-futuristic parody of 1980s action films, cartoons and video games, and takes place on an open world island. Players assume the role of military cyborg Sergeant Rex "Power" Colt. Gameplay is largely similar to Far Cry 3, though several systems from the base game were simplified or removed, and it introduces the titular Blood Dragon, a massive dinosaur that fires lasers from its eyes and can be lured to attack enemy garrisons.
+The game's development was completed in about six months. It was part of Ubisoft's initiative to release downloadable content that would appeal to newcomers to the series, and the team was tasked to create something unexpected as Far Cry 3 downloadable content. The game was inspired by movies from the 1980s such as The Wraith and Terminator, and recent movies like Manborg and Hobo with a Shotgun. The director for Hobo with a Shotgun, Jason Eisener, became the game's informal advisor after befriending the game's director, Dean Evans. Michael Biehn was invited to provide his voice for the game's protagonist, while Australian synthwave duo Power Glove composed the game's soundtrack.
+Far Cry 3: Blood Dragon was released for PlayStation 3 on April 30, 2013, and for Windows and Xbox 360 on May 1, 2013. The game received generally positive reviews upon release, and was praised for its gameplay, soundtrack and its 1980s influence, but opinions were divided on the game's attempts at humour. The game was a commercial success for Ubisoft, as it sold 1 million copies by August 2013. A remastered  version of the game was released in December 2021, available for players who purchased the Far Cry 6 season pass. While the game did not have a sequel, a spin-off, Trials of the Blood Dragon, was released in 2016. An adult animated series loosely inspired by Blood Dragon, titled Captain Laserhawk: A Blood Dragon Remix, released on Netflix in October 2023.
+
+
+</doc>
+
+<doc id="2185741" title="Fear Effect">
+Fear Effect is an action-adventure video game developed by Kronos Digital Entertainment and published by Eidos Interactive for the PlayStation. A prequel was released one year later entitled Fear Effect 2: Retro Helix. A remake, Fear Effect Reinvented, was announced on August 21, 2017.
+</doc>
+
+<doc id="2912346" title="Fear Effect 2: Retro Helix">
+Fear Effect 2: Retro Helix is an action-adventure video game developed by Kronos Digital Entertainment and published by Eidos Interactive for the PlayStation, and is the prequel to Fear Effect.
+
+
+</doc>
+
+<doc id="52756" title="Final Fantasy VII">
+Final Fantasy VII is a 1997 role-playing video game developed by Square for the PlayStation console and the seventh main installment in the Final Fantasy series. Square published the game in Japan, and it was released in other regions by Sony Computer Entertainment, becoming the first game in the main series to have a PAL release. The game's story follows Cloud Strife, a mercenary who joins an eco-terrorist organization to stop a world-controlling megacorporation from using the planet's life essence as an energy source. Events send Cloud and his allies in pursuit of Sephiroth, a superhuman who seeks to wound the planet and harness its healing power to be reborn as a god. During their journey, Cloud bonds with his party members, including Aerith Gainsborough, who holds the secret to saving their world.
+Development began in 1994, originally for the Super Nintendo Entertainment System. After delays and technical difficulties from experimenting with several platforms, most notably the Nintendo 64, Square moved production to the PlayStation, largely due to the advantages of the CD-ROM format. Veteran Final Fantasy staff returned, including series creator and producer Hironobu Sakaguchi, director Yoshinori Kitase, and composer Nobuo Uematsu. The title was the first in the series to use full motion video and 3D computer graphics, featuring 3D character models superimposed over 2D pre-rendered backgrounds. Although the gameplay remained mostly unchanged from previous entries, Final Fantasy VII introduced more widespread science fiction elements and a more realistic presentation. The combined development and marketing budget cost around US$80 million.
+Final Fantasy VII received widespread commercial and critical success and remains widely regarded as a landmark title, and it is regarded as one of the most influential and greatest video games ever made. The title won numerous Game of the Year awards and was acknowledged for boosting the sales of the PlayStation and popularizing Japanese role-playing games worldwide. Critics praised its graphics, gameplay, story, and music, which is considered to be one of the best video game soundtracks of all time. Although some criticism was directed towards the original English localization, its success has led to enhanced ports on various platforms, a multimedia subseries called the Compilation of Final Fantasy VII, and a high-definition remake trilogy currently comprising Final Fantasy VII Remake (2020), and Final Fantasy VII Rebirth (2024).
+
+
+</doc>
+
+<doc id="46994455" title="Final Fantasy VII Remake">
+Final Fantasy VII Remake is an action role-playing game by Square Enix and released for PlayStation 4 in April 2020. An enhanced version, Final Fantasy VII Remake Intergrade, was released for PlayStation 5 and Windows in 2021. 
+Final Fantasy VII Remake is the first in a planned trilogy of games remaking the 1997 PlayStation game Final Fantasy VII. Set in the dystopian cyberpunk metropolis of Midgar, players control the mercenary Cloud Strife. He joins AVALANCHE, an eco-terrorist group trying to stop the powerful megacorporation Shinra from using the planet's life essence as an energy source. The gameplay combines real-time action with role-playing elements.
+Final Fantasy VII Remake was announced in 2015 following years of speculation. Several key staff members from the original game returned for the title, including character designer and original story writer Tetsuya Nomura as director, director and writer Yoshinori Kitase as producer, writer and event planner Kazushige Nojima as story and scenario writer, event planner Motomu Toriyama as a co-director, and composer Nobuo Uematsu who returned to write the main theme. The staff redesigned the characters to balance realism and stylization.
+Final Fantasy VII Remake received positive reviews, with praise for its graphics, gameplay, narrative, and music. Critics praised the expanded story and the updated battle system for its strategic elements and visual flourishes, but the linearity and repetitive side-quests received criticism. The game became one of the fastest-selling PlayStation 4 games, by selling over 3.5 million units within three days and over 7 million units by September 2023. The second game in the trilogy, Final Fantasy VII Rebirth, is scheduled for 2024.
+</doc>
+
+<doc id="972271" title="Flashback (1992 video game)">
+Flashback, released as Flashback: The Quest for Identity in the United States, is a 1992 science fiction cinematic platform game developed by Delphine Software of France and published by U.S. Gold in the United States and Europe, and Sunsoft in Japan.
+The game was directed, written/designed and partially programmed by Paul Cuisset, who had previously created the adventure game Future Wars. Flashback was initially released for the Amiga in 1992, although originally created for the Mega Drive/Genesis. The Mega Drive/Genesis version was not released until 1993. Flashback was also ported to MS-DOS, Acorn Archimedes and Super NES in 1993. CD-ROM versions of Flashback for the Sega CD, 3DO, CD-i, MS-DOS, Apple Macintosh and the FM Towns were released during 1994 and 1995, together with a cartridge version for the Atari Jaguar in 1995. In 2017, the game was released worldwide on the Sega Dreamcast featuring graphic assets and cutscenes taken from the MS-DOS version and music from the Amiga version. An updated port titled Flashback: Remastered Edition was released for Nintendo Switch on June 7, 2018, for PlayStation 4 on November 20, 2018, and for Windows on November 29, 2018.
+Originally advertised as a "CD-ROM game on a cartridge", the game features fully hand-drawn backdrops and all animation is rotoscoped, giving movements an unusual fluidity, similar to that of the earlier Prince of Persia. The capture technique of Flashback was invented independently of Prince of Persia and used a more complicated method of first tracing video images onto transparencies.
+The game was a commercial and critical success and was listed in the Guinness World Records as the best-selling French game of all time. It was followed by a sequel titled Fade to Black in 1995. In 2013, a Flashback remake by VectorCell was released for the PC and consoles.
+A new game, Flashback 2 was announced by Microids in May 2021. It was released on November 16, 2023, for the PlayStation 5, Xbox Series X|S & PC, with previous generation consoles getting their release early 2024. At this point it was revealed, through gameplay and story, that the game is actually a prequel - set 8 years before the original.
+
+
+</doc>
+
+<doc id="39662836" title="Flashback (2013 video game)">
+Flashback is a science fiction platform video game remake of the original 1992 Flashback. The game was developed by the original game designer, Paul Cuisset, with his studio, VectorCell, and published by Ubisoft. The game was released on 21 August 2013 on Xbox Live Arcade.
+</doc>
+
+<doc id="10152186" title="Flashback 2">
+Flashback 2 is a 2023 science fiction action-adventure game developed and published by Microids. It is a sequel to Flashback.
+</doc>
+
+<doc id="31918654" title="Frozen Synapse">
+Frozen Synapse is a turn-based tactics video game developed by independent game developer Mode 7 Games, in which players plan their moves at their leisure and turns are resolved simultaneously.  Players attempt to win by giving orders to a small squad of armed combatants, most commonly with the goal of eliminating all enemy units.
+The game has online multiplayer, a single-player campaign, and a skirmish mode. The game and its soundtrack formed part of the Humble Frozen Synapse Bundle between 28 September 2011 and 12 October 2011, which ultimately grossed over $1 million and had over 230,000 downloads.It is set in a dystopian cyberpunk future, in which the player assumes the role of a tactical commander assisting a resistance faction in a struggle against a corporate government regime which has used its power to manipulate the populace, or is pitted against other commanders (human or AI) in a skirmish or multiplayer setting.
+
+
+</doc>
+
+<doc id="49416369" title="Frozen Synapse 2">
+Frozen Synapse 2 is a turn-based tactics video game developed by Mode 7 Games. It is a sequel to the 2011 video game Frozen Synapse. The player is in charge of a security force in a cyberpunk metropolis. The game was announced in February 2016 for Linux, macOS, and Windows. The developers were initially targeting a late 2016 release, but the game eventually shipped on September 13, 2018 for Windows only.
+</doc>
+
+<doc id="2917902" title="Future Cop: LAPD">
+Future Cop: LAPD is a third-person shooter developed by EA Redwood Shores and published by Electronic Arts and released first for the PlayStation, then Mac OS and Microsoft Windows. Future Cop was originally developed as an installment of the Strike series.
+In the game, players assume the role of a pilot for the X1-Alpha, a robot designed to fight in the "Crime War" in Los Angeles in the year 2098. The X1-Alpha is a police vehicle that can transform between a fast, hovering pursuit vehicle, and a slower, full-fledged combat mecha.
+</doc>
+
+<doc id="75685257" title="G String (video game)">
+G String is a 2020 first-person shooter video game developed by Eyaura and published by LunchHouse Software for Windows. The game is set in a dystopian cyberpunk future in a far future North America ravished by climate change, pollution, economic inequality and civil unrest. The player controls Myo Hyori, a teenage girl fighting to survive against the hazards posed by the state, their corporate backers, rogue machines and the polluted landscape. 
+
+
+</doc>
+
+<doc id="6461171" title="G-Police">
+G-Police is a 1997 combat flight simulation video game developed and published by Psygnosis for PlayStation and Microsoft Windows.
+The game has a science fiction setting inspired by Blade Runner. This story goes on during 2097, on a colonised Callisto. The game charts the protagonist Slater's attempts to discover the truth behind his sister's mysterious death while working for the titular G-Police. The game begins with the G-Police combating organised criminals before fighting the private armies of powerful corporations in an unfolding conspiracy-themed plot. The gameplay involves piloting VTOL aircraft resembling helicopters, engaging in combat with enemies and protecting allies.
+The game made use of cutting edge technology such as force-feedback joysticks and controllers, 3D sound and Direct3D Hardware Acceleration. Critics noted that the game's graphics were some of the most technically impressive of the time, and that this resulted in poor draw distance; the PlayStation version in particular struggled in this respect. The gameplay was more favourably reviewed, with critics praising the solid pacing and variety of mission objectives, though there were complaints regarding poor controls and unfairly high difficulty.
+</doc>
+
+<doc id="2031491" title="Galaxy Fight: Universal Warriors">
+Galaxy Fight: Universal Warriors is a fighting game originally developed and published by Sunsoft in 1995 for the Neo-Geo MVS in arcades, and then for the Neo Geo AES console. It was Sunsoft's second fighting game after their 1994 Super Famicom spin-off of their Hebereke series, Sugoi Hebereke, as well as their first side-viewed 2D fighting game.
+The arcade version of Galaxy Fight uses 32 four-megabit ROM chips (a total of 16 megabytes of data). A year later in 1996, Sunsoft produced another 2D fighting game also for the Neo-Geo titled Waku Waku 7. Two years after that, in 1998, they joined a small company SANTACLAUS in producing the Sega ST-V powered arcade game Astra Superstars.
+In 2017 the game was re-released under the Arcade Archives, developed by Hamster Corporation for the PlayStation 4 and Xbox One, followed by a Nintendo Switch version a week later.
+</doc>
+
+<doc id="5843971" title="Galerians">
+Galerians (ガレリアンズ, Garerianzu) is a 1999 survival horror video game developed by Polygon Magic for the PlayStation. The game follows a boy named Rion who discovers he has psychic powers. He has amnesia, and in the process of learning his identity, he discovers that he is humanity's last hope for survival against the Galerians, genetically enhanced humans. The game has a sequel, Galerians: Ash on PlayStation 2.
+
+
+</doc>
+
+<doc id="1729522" title="Galerians: Ash">
+Galerians: Ash (ガレリアンズ：アッシュ, Garerianzu: Asshu) is a survival horror video game developed by Polygon Magic for the Sony PlayStation 2. Galerians: Ash is the sequel to Galerians, a PlayStation game. It is a psychic action game with a dark setting. It follows the story of a young man named Rion who has psychic powers and the resilience to overcome the Last Galerians, a genetically engineered group of superhumans whose purpose is to wipe out humankind.
+</doc>
+
+<doc id="68770312" title="Gamedec">
+Gamedec is a point-and-click adventure role-playing video game published by Anshar Publishing. It released for Windows on September 16, 2021, and was released for the Nintendo Switch on July 1, 2022. The game takes place in Warsaw and features a cyberpunk universe and themes of film noir, tech noir, and transhumanism. Players control a "game detective" or "gamedec" and participate in solving mysteries related to virtual-reality games, collecting clues and making deductions in order to drive the story forward.
+</doc>
+

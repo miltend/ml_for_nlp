@@ -1,0 +1,100 @@
+14076 Horse breed
+54033 List of horse breeds
+4292780 Abaco Barb
+74957509 Abaga horse
+75215762 Adaev (horse)
+11805873 Aegidienberger
+70753 Akhal-Teke
+10519050 Albanian horse
+11332152 Altai horse
+75422959 Altwürttemberger
+5331561 American Bashkir Curly
+659438 American Belgian Draft
+10534014 American Cream Draft
+54382644 American Drum Horse
+45487115 American Indian Horse
+71549218 American Miniature Horse
+563638 American Paint Horse
+2472 American Quarter Horse
+659426 American Saddlebred
+60063100 American Shetland Pony
+10532486 American Walking Pony
+10533945 American Warmblood
+75535271 Amourski
+15148985 Anadolu Pony
+23046498 Andalusian horse
+11339156 Andravida horse
+41943438 Angevin horse
+1306899 Anglo-Arabian
+11805943 Anglo-Kabarda
+19634991 Anglo-Norman horse
+81740 Appaloosa
+1515738 AraAppaloosa
+292690 Arabian horse
+75138934 Arabo-friesian
+1830752 Ardennais
+30931357 Arenberg-Nordkirchen
+75179652 Argentine Polo Pony
+31360173 Asturcón
+19783348 Australian Draught
+5897512 Australian Pony
+10532627 Australian Riding Pony
+2204714 Australian Stock Horse
+14845089 Austrian Warmblood
+32907053 Auvergne horse
+10852699 Auxois
+74379956 Axios horse
+28435420 Azerbaijan horse
+1521008 Azteca horse
+30986782 Baise horse
+63387444 Baixadeiro
+31406028 Balearic horse
+5829295 Bali Pony
+11341681 Balikun horse
+11775542 Baluchi horse
+10518880 Banker horse
+1310608 Barb horse
+11785063 Bardigiano
+74152020 Baroque Pinto
+74494743 Barraquand horse
+11206149 Bashkir horse
+31389890 Basque Mountain Horse
+11343016 Basuto pony
+5884338 Batak pony
+11343431 Bavarian Warmblood
+61114963 Belgian Draught
+61183276 Belgian Sport Horse
+61115525 Belgian Trotter
+10571610 Belgian Warmblood
+41943545 Berrichon horse
+57255211 Bhimthadi horse
+72482603 Bhirum Pony
+47007836 Bhutia Horse
+41945526 Bidet horse
+11805981 Black Forest Horse
+21755078 Blazer horse
+36511945 Boerperd
+11206270 Bosnian Mountain Horse
+2985219 Boulonnais horse
+1986721 Brandenburger
+10288848 Brazilian Sport Horse
+75547954 Breton bidet
+7213652 Breton horse
+28010064 British Spotted Pony
+75145342 British Warmblood
+2730449 Brumby
+2318993 Budyonny horse
+31384639 Burguete horse
+52774170 Burmese Horse
+2327852 Byelorussian Harness Horse
+11785009 Calabrese horse
+2578100 Camargue horse
+14505923 Camarillo White Horse
+47845658 Campeiro
+11844039 Campolina
+1403259 Canadian horse
+21274999 Canadian Rustic Pony
+74958864 Canadian Sport Horse
+74960897 Canadian Warmblood
+11402791 Carolina Marsh Tacky
+74464287 Carthusian Spanish horse

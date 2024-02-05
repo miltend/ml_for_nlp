@@ -1,0 +1,100 @@
+42685299 Afghanistan–China border
+58510986 Afghanistan–Iran border
+58437163 Afghanistan–Tajikistan border
+58436304 Afghanistan–Turkmenistan border
+58436881 Afghanistan–Uzbekistan border
+73446477 Akharharghat
+58277985 Albania–Montenegro border
+62950380 Algeria–Libya border
+62951452 Algeria–Mali border
+62947631 Algeria–Mauritania border
+62939851 Algeria–Morocco border
+62289939 Algeria–Niger border
+62948427 Algeria–Tunisia border
+62941741 Algeria–Western Sahara border
+47432602 Andorra–France border
+47178374 Andorra–Spain border
+62991483 Angola–Democratic Republic of the Congo border
+62988769 Angola–Republic of the Congo border
+70315750 Angola–Zambia border
+47519386 Argentina–Bolivia border
+47289073 Argentina–Brazil border
+47296881 Argentina–Chile border
+47360896 Argentina–Paraguay border
+47399501 Argentina–Uruguay border
+43463960 Armenia–Azerbaijan border
+65424472 Armenia–Georgia border
+63622544 Armenia–Iran border
+63620745 Armenia–Turkey border
+54344163 Austria–Germany border
+58277581 Austria–Italy border
+74922944 Austria–Slovenia border
+44082983 Austria–Switzerland border
+65425983 Azerbaijan–Georgia border
+63622217 Azerbaijan–Iran border
+40655073 Azerbaijan–Russia border
+54722186 Azerbaijan–Turkey border
+23241135 Bangladesh–India border
+55208741 Bangladesh–Myanmar border
+44364682 Belarus–Latvia border
+41004652 Belarus–Lithuania border
+42726002 Belarus–Poland border
+36421680 Belarus–Russia border
+42009491 Belarus–Ukraine border
+38605280 Belgium–France border
+67061720 Belgium–Germany border
+56245707 Belgium–Netherlands border
+47426593 Belize–Guatemala border
+19498377 Belize–Mexico border
+62486151 Benin–Burkina Faso border
+62288711 Benin–Niger border
+62509843 Benin–Nigeria border
+62490327 Benin–Togo border
+47306010 Bhutan–China border
+39554364 Bhutan–India border
+47270423 Bolivia–Brazil border
+70514822 Bolivia–Chile border
+69229678 Borders of Bhutan
+12999306 Borders of Israel
+39210115 Botswana–South Africa border
+13590385 Brazil–Colombia border
+58661913 Brazil–France border
+47360571 Brazil–Paraguay border
+54406158 Brazil–Peru border
+47360834 Brazil–Uruguay border
+47426457 Brazil–Venezuela border
+73485692 Brazil–Guyana border
+17319229 Brunei–Malaysia border
+54989143 Bulgaria–Romania border
+49431870 Bulgaria–Turkey border
+62959279 Burkina Faso–Ghana border
+62958492 Burkina Faso–Ivory Coast border
+62957839 Burkina Faso–Mali border
+62289798 Burkina Faso–Niger border
+62958727 Burkina Faso–Togo border
+65370642 Cambodia–Laos border
+65369821 Cambodia–Thailand border
+65371865 Cambodia–Vietnam border
+62641013 Cameroon–Central African Republic border
+62043969 Cameroon–Chad border
+62982459 Cameroon–Nigeria border
+630260 Canada–United States border
+62041207 Central African Republic–Chad border
+62641398 Central African Republic–Democratic Republic of the Congo border
+62641188 Central African Republic–Republic of the Congo border
+62641530 Central African Republic–South Sudan border
+62641648 Central African Republic–Sudan border
+62018507 Chad–Libya border
+62017607 Chad–Niger border
+62036838 Chad–Nigeria border
+62069174 Chad–Sudan border
+70943099 Chile–Peru border
+40689076 China–Kazakhstan border
+47307140 China–Kyrgyzstan border
+47316349 China–Laos border
+47307063 China–Mongolia border
+47316427 China–Myanmar border
+47316276 China–Nepal border
+37420686 China–North Korea border
+47316175 China–Pakistan border
+36426555 China–Russia border

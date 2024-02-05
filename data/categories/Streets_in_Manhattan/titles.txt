@@ -1,0 +1,100 @@
+9310320 List of numbered streets in Manhattan
+431375 Commissioners' Plan of 1811
+26784161 Manhattan address algorithm
+1781673 First Avenue (Manhattan)
+966610 Second Avenue (Manhattan)
+1781612 Third Avenue
+1577163 Fourth Avenue (Manhattan)
+341863 Fifth Avenue
+971265 Sixth Avenue
+1674956 Seventh Avenue (Manhattan)
+1780953 Eighth Avenue (Manhattan)
+1785862 Ninth Avenue (Manhattan)
+1786675 Tenth Avenue (Manhattan)
+1797266 Eleventh Avenue (Manhattan)
+1563289 Twelfth Avenue (Manhattan)
+1563301 Thirteenth Avenue (Manhattan)
+2546049 Avenue A (Manhattan)
+6924087 Avenue B (Manhattan)
+954100 Avenue C (Manhattan)
+964651 Avenue D (Manhattan)
+4030447 4th Street (Manhattan)
+1219294 8th Street and St. Mark's Place
+30863746 14th Street (Manhattan)
+952904 23rd Street (Manhattan)
+1664479 34th Street (Manhattan)
+61068 42nd Street (Manhattan)
+8400232 47th Street (Manhattan)
+7461511 50th Street (Manhattan)
+16618670 51st Street (Manhattan)
+849758 52nd Street (Manhattan)
+7461711 53rd Street (Manhattan)
+16801106 54th Street (Manhattan)
+16904195 55th Street (Manhattan)
+7453238 57th Street (Manhattan)
+6875163 59th Street (Manhattan)
+25147879 60th Street (Manhattan)
+7461533 66th Street (Manhattan)
+7479061 72nd Street (Manhattan)
+25147097 74th Street (Manhattan)
+8131414 79th Street (Manhattan)
+8093339 85th Street (Manhattan)
+3514606 86th Street (Manhattan)
+23345492 89th Street (Manhattan)
+23230604 93rd Street (Manhattan)
+23243522 95th Street (Manhattan)
+8498418 96th Street (Manhattan)
+3220387 110th Street (Manhattan)
+7478983 116th Street (Manhattan)
+1495882 125th Street (Manhattan)
+25149941 133rd Street (Manhattan)
+15081954 145th Street (Manhattan)
+14184093 155th Street (Manhattan)
+53481691 Albany Street (Manhattan)
+12412214 Allen Street
+8709265 Ann Street (Manhattan)
+1078851 Astor Place
+1940779 Astor Row
+12026995 Audubon Avenue
+18537726 Bank Street (Manhattan)
+39803857 Baxter Street
+63249435 Beaver Street (Manhattan)
+8380544 Beekman Place
+3653423 Bleecker Street
+8228324 Bogardus Place
+49794528 Bond Street (Manhattan)
+948527 Bowery
+6979118 Bridge Street (Manhattan)
+3099233 Broad Street (Manhattan)
+4626 Broadway (Manhattan)
+34958189 Broome Street
+6762784 Cabrini Boulevard
+690506 Canal Street (Manhattan)
+47124489 Center Drive (Manhattan)
+18517950 Centre Market Place
+8599727 Centre Street (Manhattan)
+9642776 Chambers Street (Manhattan)
+53685509 Charles Street (Manhattan)
+3134198 Chatham Square
+3572034 Cherry Street (Manhattan)
+952805 Christopher Street
+22001750 Chrystie Street
+21165489 Church Street and Trinity Place
+20334799 Claremont Avenue
+21769243 Coenties Slip
+1257191 Columbus Circle
+10433060 Cooper Square
+71218904 Cortlandt Alley
+53537993 Cortlandt Street (Manhattan)
+71411197 Curry Row
+948495 Delancey Street
+17474450 Dey Street
+14909814 Division Street (Manhattan)
+9809645 Doyers Street
+30251362 Duke Ellington Circle
+11281882 Dyckman Street
+7445871 Dyer Avenue
+37294420 East Broadway (Manhattan)
+47124418 East Drive (Manhattan)
+54046121 Eldridge Street
+37798131 Elizabeth Street (Manhattan)
