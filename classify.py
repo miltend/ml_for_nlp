@@ -2,7 +2,7 @@
 import sys
 import string
 import numpy as np
-from math import sqrt
+from math import sqrt, log
 from bs4 import BeautifulSoup
 
 
@@ -18,15 +18,25 @@ def cosine_similarity(v1, v2):
     den_b = np.dot(v2, v2)
     return num / (sqrt(den_a) * sqrt(den_b))
 
+
+def log_idfs(dfs, doc_num):
+    idfs = {}
+    for k,v in dfs.items():
+        idfs[k] = log(doc_num / v)
+    return idfs
+
+
 def read_vocab():
     with open('./data/vocab_file.txt','r') as f:
         vocab = f.read().splitlines()
     return vocab
 
+
 def read_queries(query_file):
     with open(query_file) as f:
         queries = f.read().splitlines()
     return queries
+
 
 def read_category_vectors():
     vectors = {}
@@ -39,6 +49,7 @@ def read_category_vectors():
         vectors[cat] = vec
     return vectors
 
+
 def get_ngrams(l,n):
     l = l.lower()
     ngrams = {}
@@ -50,10 +61,12 @@ def get_ngrams(l,n):
             ngrams[ngram]=1
     return ngrams
 
+
 def normalise_tfs(tfs,total):
     for k,v in tfs.items():
         tfs[k] = v / total
     return tfs
+
 
 def mk_vector(vocab,tfs):
     vec = np.zeros(len(vocab))
@@ -89,7 +102,6 @@ for q in queries:
 
     dfs = {}
 
-
     vector_list = []
     for text in texts:
         one_doc_tfs = {}
@@ -118,6 +130,11 @@ for q in queries:
         vector_list.append(one_doc_vector)
         
     all_docs_matrix = np.vstack(vector_list)
+
+    idfs = log_idfs(dfs, len(texts))
+    idfs_array = np.array([0 if k not in idfs else idfs[k] for k in vocab])
+    for i in range(all_docs_matrix.shape[0]):
+        all_docs_matrix[i] = all_docs_matrix[i] * idfs_array
     cosines_docs = {}
     for i in range(all_docs_matrix.shape[0]):
         cosines_docs[i] = cosine_similarity(all_docs_matrix[i], qvec)
