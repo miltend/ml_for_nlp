@@ -1,5 +1,0 @@
-.DS_Store
-.ipynb_checkpoints/
-data/.DS_Store
-data/categories/.DS_Store
-search_engine.ipynb
