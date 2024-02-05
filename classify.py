@@ -1,4 +1,5 @@
-#USAGE: python3 classify.py <query_file>
+#USAGE: python3 classify.py <query_file> <ngrams>
+#EXAMPLE: python3 classify.py query_file.txt 4 5 6
 import sys
 import string
 import numpy as np
